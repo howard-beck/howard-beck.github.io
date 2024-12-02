@@ -1,0 +1,221 @@
+<!DOCTYPE HTML>
+
+<html>
+        <head>
+                <title>Howard's website</title>
+
+                <!-- https://latex.vercel.app/ -->
+                <link id="latex-style" rel="stylesheet" href="https://latex.vercel.app/style.css">
+                <!-- some modifications that I prefer -->
+                <style>
+                        dl dd {
+                                text-align: left;
+                        }
+
+                        body {
+                                max-width: 160ch;
+                        }
+                </style>
+
+                <style>
+                        /* LaTeX fonts from https://github.com/Firestar-Reimu/AMSFonts-OTF/tree/main */
+                        @font-face {
+                                font-family: "math";
+                                src: url("./fonts/CMMI10.otf");
+                        }
+                        @font-face {
+                                font-family: "mathnotit";
+                                src: url("./fonts/CMEX10.otf");
+                        }
+                        @font-face {
+                                font-family: "mathbb";
+                                src: url("./fonts/MSBM10.otf");
+                        }
+
+
+                        math {
+                                font-family: "math";
+                        }
+                        mathbb {
+                                font-family: "mathbb";
+                        }
+
+                        p.indent {
+                                text-indent: 1em;
+                        }
+                </style>
+        </head>
+
+        <body>
+                <h1>Howard's (very work in progress) website!</h1>
+                <p>I'm a senior at MIT, majoring in Mathematics (pure), Course 18</p>
+                <p><b>Research interests</b>: stable homotopy theory and spectra, equivariant homotopy theory and connections to representation theory, homological algebra</p>
+                <p><b>Contact information</b>: Howard Beck, hbeck[at]mit[dot]edu</p>
+                <p>
+                        <a href="./CV-howard-beck.pdf">CV</a> (or the <a href="./CV-short-howard-beck.pdf">short</a> version),
+                        <a href="./resume-howard-beck.pdf">Resume</a>
+                </p>
+                
+                <br />
+                <h3>Preprints</h3>
+                <dl>
+                        <dt>
+                                <b>In progress:</b>
+                                        <i>Chromatic blueshift conjecture: the simple case and an algebraic analogue</i>,
+                                        joint with Kyle Roke.
+                                        <br />
+                                Supervised by Tristan Yang and Professor <a href="http://web.mit.edu/~jhahn01/www/">Jeremy Hahn</a>
+                                <br />
+                        </dt>
+                        <dd>
+                                Using power operations, we show that the Chromatic Blueshift Conjecture of
+                                Burkland, Schlank, and Yuan holds for certain
+                                        <mathbb>E</mathbb><sub><math>&#8734;</math></sub>
+                                ring spectra, at prime cyclic groups
+                                        <math>C</math><sub><math>p</math></sub>
+                                with the trivial family and at all chromatic heights.
+                        </dd>
+                </dl>
+                <br />
+                <h3>Some of my writings that may be useful or of interest:</h3>
+                <dl>
+                        <dt>
+                                <a href="./An_elementary_introduction_to_stable_homotopy_theory.pdf">An Elementary Introduction to Stable Homotopy Theory</a>
+                        </dt>
+                        <dd>
+                                This is an expository paper introducing stable homotopy theory.
+                                The ideal readership has taken an introduction to topology course, and is familiar with the language
+                                of groups, and ideally (no pun intended) also rings, and modules.
+                                It was submitted to a certain unnamed-for-now journal - we'll see what happens!
+                        </dd>
+
+                        <br />
+
+                        <dt>
+                                <a href="./chromatic_blueshift_notes.pdf">Notes on the Chromatic Blueshift Conjecture</a>
+                        </dt>
+                        <dd>
+                                This is intended to get someone with only basic knowledge of (chromatic, stable) homotopy theory
+                                up to speed to understand Conjecture 9.9 of Burkland, Schlank, and Yuan
+                                (see: <a href="https://arxiv.org/pdf/2207.09929">
+                                        <i>The chromatic nullstellensatz</i></a>).
+                                In its current state, this document is mostly complete but will be revised.
+                                The first section covers the basics of Bousfield localization, introduces Morava
+                                <math>K</math><mathnotit>(</mathnotit><math>n</math><mathnotit>)</mathnotit>-theories and the telescope spectra
+                                <math>T</math><mathnotit>(</mathnotit><math>n</math><mathnotit>)</mathnotit>, and
+                                of course briefly mentions the (recently disproved) Telescope Conjecture of Ravenel.
+                                The second section covers the basics of equivariant spaces, and then develops
+                                stable equivariant homotopy theory. By the end, I introduce the geometric fixed point functors
+                                on genuine <math>G</math>-spectra which puts the reader (hopefully) in a position to
+                                understand the statement of the Chromatic Blueshift Conjecture.
+                                If you have comments on this document, feel free to email me!<br />
+                                <b>Note: </b>Claim 1.4.5. is correct but the proof I presented is horribly wrong - I will fix this soon.
+                        </dd>
+
+                        <br />
+
+                        <dt>
+                                <a href="./18_906_lec_57_59.pdf">Presentation notes on classifying spaces, simplicial sets, and C&#780;ech categories</a>
+                        </dt>
+                        <dd>
+                                These are notes from a presentation I gave for the 18.906 (Algebraic Topology II) reading group in Fall 2024 at MIT.
+                                The class is unusually not being offered this year, so the reading group is "replacing" the class.
+                                It's based on Professor <a href="https://math.mit.edu/~hrm/">Haynes Miller</a>'s
+                                lecture notes, available on
+                                <a href="https://math.mit.edu/~hrm/papers/course-notes.html">his website</a>.
+                                I would like to thank Prof. Miller for his contributions to these notes, by pointing out mistakes and giving
+                                insightful comments during the presentation that were included in the notes afterwards
+                        </dd>
+
+                        <br />
+
+                        <dt>
+                                <a href="./lunar_particle_filter_learning.pdf">Deep Learning Imitation of Particle Filter for Autonomous Vertical Optical Lunar Lander</a>
+                                (<a href="javascript:void(0)" onclick="showBibTeX('beck2021deep', this)">show BibTeX</a>)
+<pre id="beck2021deep" style="display: none">
+@unpublished{beck2021deep,
+  author = "Howard Beck",
+  title = "Deep Learning Imitation of Particle Filter for Autonomous Vertical Optical Lunar Lander",
+  month = aug,
+  year = 2021,
+  note = "available at \url{https://www.mit.edu/~hbeck}"
+}
+</pre>
+                        </dt>
+                        <dd>
+                                This project was done in the second half of my senior year of high school for my AP Research Class.
+                                The idea was that modern spacecraft may be able to perform descent using cameras, and there's a desire to
+                                outfit their computer systems with hardware capable of calling deep learning models.
+                                A statistically robust way to combine image data into the pose estimation algorithm is very
+                                computationally expensive, and this paper offers a way to replace this with a recurrent
+                                neural network.
+                                Frankly, the method I employed is still terribly inefficient and more classical methods that may be
+                                less Bayes-optimal are better-suited.
+                                However, I'm still begrudgingly making this document publicly accessible for the sake of open
+                                research.
+                                For a brief while back then and even at the start of my undergrad at MIT, I was considering
+                                being some flavor of engineer - here is the evidence of such a time.
+                                The code can theoretically be found
+                                <a href="https://github.com/howard-beck/RNNs-for-Bayesian-State-Estimation">here</a>,
+                                but beware I have absolutely no idea where any of the neural network code is.
+                                I fear it is a mystery lost to time.
+                        </dd>
+                </dl>
+
+                <br />
+                <br />
+                <div>
+                        <a href="https://www.digits.net" target="_blank">
+                                <img src="https://counter.digits.net/?counter={c563dd01-e656-a864-f92c-f001d5544510}&template=simple" 
+                                        alt="Hit Counter by Digits" border="0"  />
+                        </a>
+                        <br />
+                        Visit count provided by 
+                        <a href="https://www.digits.net/"><img src="wc.gif" width="216" height="23" border="1" vspace="2" hspace="2" /></a>
+                        from <a href="https://www.digits.net/">https://www.digits.net/</a>
+                </div>
+
+                <br />
+
+                <div>
+                        <p>
+                                Website styling uses
+                                <a href="https://latex.vercel.app/"><span class="latex">L<span>a</span>T<span>e</span>X</span>.css</a>
+                                and does NOT use MathJax - the math symbols use LaTeX fonts, available at
+                                <a href="https://github.com/Firestar-Reimu/AMSFonts-OTF/tree/main">https://github.com/Firestar-Reimu/AMSFonts-OTF/tree/main</a>
+                                in OTF (OpenType font) which is compatible with HTML.
+                        </p>
+                        <p>
+                                <a href="javascript:void(0)" onclick="toggleStyle(this)">Disable LaTeX CSS and instead get pure academia raw-HTML-no-CSS vibes</a>
+                        </p>
+                </div>
+
+
+
+                <script>
+                        function toggleStyle(elm) {
+                                link = document.getElementById("latex-style");
+
+                                if (elm.innerHTML == "Disable LaTeX CSS and instead get pure academia raw-HTML-no-CSS vibes") {
+                                        link.href = ""
+                                        elm.innerHTML = "Bring back LaTeX CSS - your eyes may thank you";
+                                } else {
+                                        link.href = "https://latex.vercel.app/style.css";
+                                        elm.innerHTML = "Disable LaTeX CSS and instead get pure academia raw-HTML-no-CSS vibes";
+                                }   
+                        }
+
+                        function showBibTeX(ref_id, elm) {
+                                ref = document.getElementById(ref_id);
+
+                                if (elm.innerHTML == "show BibTeX") {
+                                        ref.style.display = "block";
+                                        elm.innerHTML = "hide BibTeX";
+                                } else {
+                                        ref.style.display = "none";
+                                        elm.innerHTML = "show BibTeX";
+                                }   
+                        }
+                </script>
+        </body>
+</html>
