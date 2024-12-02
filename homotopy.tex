@@ -1,0 +1,38 @@
+% cup product
+\NewCommandCopy{\oldcup}{\cup}
+\renewcommand{\cup}{\smile}
+% in exchange...
+\newcommand{\union}{\oldcup}
+
+% sphere (spectrum)
+\NewCommandCopy{\sect}{\S}
+\renewcommand{\S}{\mathbb{S}}
+
+% wedge sums use the \vee symbol, and smash products use the \wedge symbol
+% exchange these
+% \smash is used in subsections somehow, so we'll keep it around
+\NewCommandCopy{\oldsmash}{\smash}
+\NewCommandCopy{\oldwedge}{\wedge}
+
+% wedge sum
+\renewcommand{\wedge}{\vee}
+% smash product
+% WARNING: this is very hacky. you cannot take relative smash products like this
+% If someone knows a workaround that lets you do A \smash_X B then feel free to
+% contact me...
+\renewcommand{\smash}[2][]{%
+    \ifmmode%
+        % use the wedge symbol if in math mode
+        \oldwedge {#1}%
+    \else%
+        % if not, it's probably the subsection thing from before, so use the old smash
+        \oldsmash[#1]{#2}%
+    \fi%
+}
+% here's your relative smash product, that you surely use so much...
+\newcommand{\smashrel}[1]{\oldwedge_{#1}}
+
+% big versions
+\NewCommandCopy{\oldbigwedge}{\bigwedge}
+\newcommand{\bigsmash}{\oldbigwedge}
+\renewcommand{\bigwedge}{\bigvee}
