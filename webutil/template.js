@@ -1,5 +1,7 @@
+$ = (x => document.querySelector(x))
+
 document.addEventListener("DOMContentLoaded", function () {
-    document.body.removeChild(document.getElementById("js-warning"))
+    document.body.removeChild($("#js-warning"))
 
     txt = "<br />"
     txt += '<a href="../">return to home page</a><br /><br />'
@@ -31,6 +33,6 @@ function iam(thenav) {
         }
         elm.innerHTML = navs[i]
 
-        document.getElementById("nav").appendChild(elm)
+        $("#nav").appendChild(elm)
     }
 }
