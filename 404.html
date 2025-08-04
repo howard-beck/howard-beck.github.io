@@ -21,6 +21,11 @@
             <p id="decomposition"></p>
             <button onclick="new_decomp()">Give me a new one!</button>
         </div>
+
+        <div id="meme_div" style="display: none">
+            <img src="" id="meme" />
+            <p id="meme_attr"></p>
+        </div>
         
 
         </p>
@@ -59,7 +64,7 @@
 
                             tries++
 
-                            if (tries >= 100) {
+                            if (tries >= 100 && n != 404) {
                                 next_num = 1
                                 ret = n
                                 return [n, is_addition]
@@ -95,6 +100,20 @@
             new_decomp()
 
             document.getElementById("url").innerHTML = window.location.href
+
+
+
+            function on_meme(memes) {
+                console.log(memes)
+            }
+
+            fetch('https://howard-beck.github.io/memes.json', {
+                method: 'GET',
+                headers: {
+                    'Accept': 'application/json',
+                },
+            })
+            .then(response => response.json()).then(on_meme)
         </script>
 
 
