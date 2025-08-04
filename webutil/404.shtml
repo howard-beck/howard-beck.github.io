@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        <title>Howard's website - 404 page</title>
+        <link rel="icon" type="image/x-icon" href="https://www.mit.edu/~hbeck/webutil/favicon.ico">
+
+        <meta name="robots" content="noarchive">
+
+        <!-- https://latex.vercel.app/ -->
+        <link id="latex-style" rel="stylesheet" href="https://latex.vercel.app/style.css">
+        <link rel="stylesheet" href="https://www.mit.edu/~hbeck/webutil/style.css">
+
+        <script type="text/javascript" src="https://www.mit.edu/~hbeck/webutil/template.js"></script>
+    </head>
+
+    <body>
+        <h1>Error: 404</h1>
+        <p>Uh oh! <span id="url">This page</span> does not exist.</p>
+        <div id="decomp_div" style="display: none">
+            <p id="decomposition"></p>
+            <button onclick="new_decomp()">Give me a new one!</button>
+        </div>
+        
+
+        </p>
+        
+        <script>
+            function decompose(n) {
+                console.log(n)
+                if (n == 0) {
+                    return ["", false]
+                } else if (n == 1) {
+                    return ["1", false]
+                } else {
+                    var ret = ""
+                    var next_num = null
+                    var is_addition = false
+
+                    if (Math.random() <= 0.5 && n > 1) {
+                        is_addition = true
+                        N = Math.round(1 + Math.random() * (n - 2))
+                        next_num = n - N
+                        ret = N + " + "
+                        console.log(n + ": decomposing by removing " + (N))
+                    } else {
+                        is_addition = false
+
+                        tries = 0
+                        while (true) {
+                            N = Math.round(2 + Math.random() * (n/2 - 2))
+
+                            if (n % N == 0) {
+                                next_num = Math.round(n / N)
+                                ret = N + " * "
+                                console.log(n + ": decomposing by dividing by " + N)
+                                break
+                            }
+
+                            tries++
+
+                            if (tries >= 100) {
+                                next_num = 1
+                                ret = n
+                                return [n, is_addition]
+                                break
+                            }
+                        }
+                    }
+
+                    var [next_str, was_addition] = decompose(next_num)
+
+                    console.log(n + ": part " + ret)
+                    if (is_addition) {
+                        ret += next_str
+                    } else {
+                        if (was_addition) {
+                            ret += "(" + next_str + ")"
+                        } else {
+                            ret += next_str
+                        }
+                    }
+                    
+                    console.log(n + " : " + ret)
+
+                    return [ret, is_addition]
+                }
+            }
+
+            function new_decomp() {
+                [dec, _] = decompose(404)
+                document.getElementById("decomposition").innerHTML = "For your troubles, have a decomposition of 404:<br />404 = " + dec
+            }
+            document.getElementById("decomp_div").style.display = "block"
+            new_decomp()
+
+            document.getElementById("url").innerHTML = window.location.href
+        </script>
+
+
+
+
+        <div id="js-warning">
+            <b>Warning<b>:
+            you are not using JavaScript, so some aspects of this website may not work as expected.
+            For more information, see <a href="../webutil/website-info.html">here</a>.
+            <br /><br />
+            <a href="https://accessibility.mit.edu/">Accessibility</a>
+        </div>
+        
+    </body>
+</html> 

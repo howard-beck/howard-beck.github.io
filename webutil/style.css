@@ -1,0 +1,43 @@
+dl dd {
+    text-align: left;
+}
+
+dd {
+    margin-left: 3em;
+}
+
+body {
+    max-width: 160ch;
+}
+
+#nav {
+    display: flex;
+    gap: 2em;
+}
+
+/* LaTeX fonts from https://github.com/Firestar-Reimu/AMSFonts-OTF/tree/main */
+@font-face {
+    font-family: "math";
+    src: url("./fonts/CMMI10.otf");
+}
+@font-face {
+    font-family: "mathnotit";
+    src: url("./fonts/CMEX10.otf");
+}
+@font-face {
+    font-family: "mathbb";
+    src: url("./fonts/MSBM10.otf");
+}
+
+
+math {
+    font-family: "math";
+    /* font-style: oblique; */
+}
+mathbb {
+    font-family: "mathbb";
+}
+
+p.indent {
+    text-indent: 1em;
+}

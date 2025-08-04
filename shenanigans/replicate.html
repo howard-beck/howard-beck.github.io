@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>self replicating text</title>
+
+        <!-- https://latex.vercel.app/ -->
+        <link id="latex-style" rel="stylesheet" href="https://latex.vercel.app/style.css">
+        <link rel="stylesheet" href="./webutil/style.css">
+    </head>
+
+    <body>
+        <h1>Self-replicating code</h1>
+        <p>
+            Fun fact: you can write code that replicates itself without reading itself!
+            This is known as a <a href="https://en.wikipedia.org/wiki/Quine_(computing)">quine</a>, and you can make one
+            in any Turing-complete language.
+        </p>
+        <p>
+            This turns out to actually have applications!
+            Implicit self-reference is how we get G&#246;del's incompleteness results.</p>
+        <p>
+            Here's some JavaScipt code that does just that.
+            It's not well written and I decided to try to write it without referencing other online materials.
+            The Wikipedia page linked earlier has much more compact examples, and even has quines between multiple programming languages
+            (like Java code that returns C++ code that returns the original Java code).
+        </p>
+<pre>
+function copy(str) {
+    var output = str + "\n";
+    var repl = "function replicate() {\n\tdocument.getElementById(\"replicate\").innerHTML = out;\n}\n";
+    output += "var out = copy(\"" + str.replaceAll("\\", "\\\\").replaceAll("\n", "\\n").replaceAll("\t", "\\t").replaceAll("\"", "\\\"") + "\");\n";
+    output += repl;
+    return output;
+}
+var out = copy("function copy(str) {\n\tvar output = str + \"\\n\";\n\tvar repl = \"function replicate() {\\n\\tdocument.getElementById(\\\"replicate\\\").innerHTML = out;\\n}\\n\";\n\toutput += \"var out = copy(\\\"\" + str.replaceAll(\"\\\\\", \"\\\\\\\\\").replaceAll(\"\\n\", \"\\\\n\").replaceAll(\"\\t\", \"\\\\t\").replaceAll(\"\\\"\", \"\\\\\\\"\") + \"\\\");\\n\";\n\toutput += repl;\n\treturn output;\n}");
+function replicate() {
+    document.getElementById("replicate").innerHTML = out;
+}
+</pre>
+        <button onclick="replicate()">> Run code</button>
+        <script>
+function copy(str) {
+	var output = str + "\n";
+	var repl = "function replicate() {\n\tdocument.getElementById(\"replicate\").innerHTML = out;\n}\n";
+	output += "var out = copy(\"" + str.replaceAll("\\", "\\\\").replaceAll("\n", "\\n").replaceAll("\t", "\\t").replaceAll("\"", "\\\"") + "\");\n";
+	output += repl;
+	return output;
+}
+var out = copy("function copy(str) {\n\tvar output = str + \"\\n\";\n\tvar repl = \"function replicate() {\\n\\tdocument.getElementById(\\\"replicate\\\").innerHTML = out;\\n}\\n\";\n\toutput += \"var out = copy(\\\"\" + str.replaceAll(\"\\\\\", \"\\\\\\\\\").replaceAll(\"\\n\", \"\\\\n\").replaceAll(\"\\t\", \"\\\\t\").replaceAll(\"\\\"\", \"\\\\\\\"\") + \"\\\");\\n\";\n\toutput += repl;\n\treturn output;\n}");
+function replicate() {
+	document.getElementById("replicate").innerHTML = out;
+}
+        </script>
+        <p>Output:</p>
+        <pre id="replicate"></pre>
+
+        <br />
+        <br />
+
+        <a href="./">return to home page</a>
+
+        <br />
+        <br />
+
+        <a href="https://accessibility.mit.edu/">Accessibility</a>
+    </body>
+</html>

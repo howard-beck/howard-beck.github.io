@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+
+<html>
+        <head>
+                <title>Nice commutative diagrams</title>
+
+                <!-- https://latex.vercel.app/ -->
+                <link id="latex-style" rel="stylesheet" href="https://latex.vercel.app/style.css">
+                <!-- some modifications that I prefer -->
+                <style>
+                        dl dd {
+                                text-align: left;
+                        }
+
+                        dd {
+                                margin-left: 3em;
+                        }
+
+                        body {
+                                max-width: 160ch;
+                        }
+                </style>
+
+                <style>
+                        /* LaTeX fonts from https://github.com/Firestar-Reimu/AMSFonts-OTF/tree/main */
+                        @font-face {
+                                font-family: "math";
+                                /* src: url(./fonts/amsfonts/fonts/type1/public/amsfonts/cm/cmmi10.pfm); */
+                                src: url("./fonts/CMMI10.otf");
+                        }
+                        @font-face {
+                                font-family: "mathnotit";
+                                /* src: url(./fonts/amsfonts/fonts/type1/public/amsfonts/cm/cmmi10.pfm); */
+                                src: url("./fonts/CMEX10.otf");
+                        }
+                        @font-face {
+                                font-family: "mathbb";
+                                /* src: url(./fonts/amsfonts/fonts/type1/public/amsfonts/cm/cmmi10.pfm); */
+                                src: url("./fonts/MSBM10.otf");
+                        }
+
+
+                        math {
+                                font-family: "math";
+                                /* font-style: oblique; */
+                        }
+                        mathbb {
+                                font-family: "mathbb";
+                        }
+
+                        p.indent {
+                                text-indent: 1em;
+                        }
+                </style>
+        </head>
+
+        <body>
+                <h1>Some nice commutative diagrams</h1>
+                <p>Everyone loves a good commutative diagram! I'll be updating this website as I find good ones.</p>
+                <br />
+                <b>An upside down house</b><br />
+                <p>
+                        Source: Page 15 in Robert R. Bruner, J. Peter May, James E. McClure, and Mark Steinberger.
+                        <i><math>H<sub>&#8734;</sub></math> Ring Spectra and their Applications</i>, volume 1176 of <i>Lecture Notes in Mathematics</i>.
+                        Springer, Berlin, Heidelberg, 1986.
+                </p>
+                <img src="./diagrams/bruner-h-infinity-upside-down-house.png" alt="Commutative diagram that looks like an upside down, two story, house with a traingular roof" />
+                
+                <br />
+                <br />
+
+                <a href="./">return to home page</a>
+                <br />
+                <br />
+
+                <a href="https://accessibility.mit.edu/">Accessibility</a>
+        </body>
+</html>

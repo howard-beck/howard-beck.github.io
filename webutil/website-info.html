@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Howard's website information stuff</title>
+        <link rel="icon" type="image/x-icon" href="./webutil/favicon.ico">
+
+        <meta name="robots" content="noarchive">
+    </head>
+
+    <body>
+        Current as of July 2, 2025
+
+        <h2>Basic information</h2>
+        This website is intentionally designed to load quickly and not take up resources.
+        As such, I am only loading in my own simple scripts, along with CSS.
+        I wanted it to almost look like a LaTeX document, so most pages use
+            <a href="https://latex.vercel.app">latex.vercel.app</a> to accomplish this.
+        Further, I refuse to use MathJax, so I have also loaded in HTML-compatible versions of
+            typical AMS fonts, which can be found <a href="https://github.com/Firestar-Reimu/AMSFonts-OTF/tree/main">here</a>.
+        No amount of my website was developed in any part using generative AI.
+        Along similar lines, I do not want such systems to be trained on anything in this website --
+            I am using a robots.txt from <a href="https://github.com/ai-robots-txt/ai.robots.txt">here</a>
+            as a first line of defense.
+        
+        <h2>MIT.edu address</h2>
+        As I have now graduated, I will no longer be able to update this website in a few months.
+        I will migrate the website, but am not sure how smooth this will be, or what the new URL will be.
+        
+        <h2>Privacy</h2>
+        This website is, for now, hosted on MIT's servers.
+        What this means is that they can inject analytics into the website for their own purposes
+            (and have done so in the past: <a href="https://thetech.com/2017/07/26/mit-ist-opt-out">https://thetech.com/2017/07/26/mit-ist-opt-out</a>)
+        As far as I can tell, this no longer happens, but I cannot guarantee anything.
+        However, I do not have access to analytics, and do not currently load any cookies myself.
+
+        <br /><br />
+
+        My <a href="./">home page</a> will load in iFrames from external parties to count the number
+            of visitors to my page over time, from <a href="https://www.digits.net">digits.net</a>, and to
+            accumulate country flags of the visitors, from <a href="https://flagcounter.com/">flagcounter.com</a>.
+        These do not rely on cookies.
+        Please note that by clicking on the flag counter, you are able to get more detailed information about the breakdown.
+        This includes information about when the latest visit was from each country.
+        Further, there are breakdowns by state in the USA and Canada.
+
+        <br /><br />
+
+        MIT's hosting servers inject code to display the MIT favicon.
+        Unfortunately, those come with some sort of Cloudfare cookie that seems to store information
+            about whether you have JavaScript enabled.
+        Instead, I have downloaded the favicon myself and use that version on the website, so that this does not happen.
+        
+        <h2>Accessibility</h2>
+        Each MIT website is required to contain a link to the <a href="https://www.mit.edu/accessibility/">MIT Accessibility page</a>.
+        <a href="https://math.mit.edu/services/computer-help/websites/accessibility.html">Here</a> is some more information I could find about this.
+        If you have difficulty getting information from my website, do not hesitate to contact me with whatever methods
+            I have listed in my <a href="./">home page</a>.
+        
+        <h2>JavaScript</h2>
+        This website freely assumes you have JavaScript enabled, although it is not used extensively.
+        The main uses right now are to make my life easier by standardizing some things across various pages, so
+            that I do not have to copy and paste code and make sure all the pages adhere to the same template.
+        It is also useful to redirect some links, i.e. if I want to be able to access a page from a shorter url
+            than would be dictated by how I want the file system organized.
+        
+        <br /><br />
+
+        If you have JavaScript disabled, you may notice a warning at the bottom of some of the pages.
+        This warning is automatically deleted by a JavaScript function, that is of course only executed if JavaScript is enabled.
+        If you are not sure, a similar process has determined that you have JavaScript <i id="js-status">disabled</i>.
+
+        <br /><br />
+
+        There is not a specific version of JavaScript that I am assuming users' browsers have.
+        However, I am not doing anything particular high-tech.
+
+        <script>
+            document.getElementById("js-status").innerHTML = "enabled"
+        </script>
+    </body>
+</html>
