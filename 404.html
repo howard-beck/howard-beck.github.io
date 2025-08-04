@@ -104,7 +104,7 @@
 
 
             function on_meme(memes) {
-                keys = memes.keys()
+                keys = keys(memes)
                 n = math.floor(Math.random() * length(keys))
 
                 meme = memes[keys[n]]
