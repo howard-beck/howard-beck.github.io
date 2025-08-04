@@ -3,7 +3,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     txt = "<br />"
     txt += '<a href="../">return to home page</a><br /><br />'
-    txt += '<a href="https://accessibility.mit.edu/">Accessibility</a>'
 
     div = document.createElement("div")
     div.innerHTML = txt
