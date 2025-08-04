@@ -1,11 +1,11 @@
 {
     "cats": {
         "src": "https://bpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/1/4020/files/2024/02/allcatsforwebsite-fc943d8e901b3edb.jpg",
-        "attribution": "https://blogs.gwu.edu/robertwon/category-theory-cats/"
+        "attribution": "<a href=\"https://blogs.gwu.edu/robertwon/category-theory-cats/\">https://blogs.gwu.edu/robertwon/category-theory-cats</a>"
     },
     "natural_transformation": {
         "src": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/518341846_10235215481115517_4327471512740004888_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=GtJG5xregOQQ7kNvwFGfwlK&_nc_oc=AdkE-eLy3v5ul67aFNZnhXwO8ypewe4nYvrzmCLw1XAhft6dg8zp-C1kwYxBszxReFc&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&_nc_gid=La0HVmsOme6yXoqRMj96ag&oh=00_AfUWNHwM6uLYl3ovTbh2hS2Cs7obXJJTj0Z1ZprC_IrfdA&oe=6895C99C",
-        "attribution": "https://www.facebook.com/groups/1567682496877142/posts/3817743701870999/"
+        "attribution": "<a href=\"https://www.facebook.com/groups/1567682496877142/posts/3817743701870999/\">https://www.facebook.com/groups/1567682496877142/posts/3817743701870999/</a>"
     },
     "slinkies": {
         "src": "https://howard-beck.github.io/webutil/deslinkification.jpg",
@@ -17,6 +17,6 @@
     },
     "N_mistake": {
         "src": "https://preview.redd.it/f89h54xkywn61.png?auto=webp&s=17ba5c767f1220d16cd05af1d0d9f0b2dd57b1c3",
-        "attribution": "https://www.reddit.com/r/mathmemes/comments/m89cq4/say_jarvis/"
+        "attribution": "<a href=\"https://www.reddit.com/r/mathmemes/comments/m89cq4/say_jarvis/\">https://www.reddit.com/r/mathmemes/comments/m89cq4/say_jarvis/</a>"
     }
 }

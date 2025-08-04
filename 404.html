@@ -104,7 +104,14 @@
 
 
             function on_meme(memes) {
-                console.log(memes)
+                keys = memes.keys()
+                n = math.floor(Math.random() * length(keys))
+
+                meme = memes[keys[n]]
+
+                document.getElementById("meme_div").style.display = "block"
+                document.getElementById("meme").src = meme.src
+                document.getElementById("meme_attr").innerHTML = meme.attribution
             }
 
             fetch('https://howard-beck.github.io/webutil/memes.json', {
