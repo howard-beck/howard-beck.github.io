@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.body.appendChild(div)
 })
 
-navs = ["about", "notes", "shenanigans"]
+navs = ["about", "notes", "shenanigans", "classes"]
 
 function iam(thenav) {
     for (i = 0; i < navs.length; i++) {
