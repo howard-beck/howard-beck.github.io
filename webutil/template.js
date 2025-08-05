@@ -1,7 +1,13 @@
-$ = (x => document.querySelector(x))
+$ = (x, func) => {
+    if (func == null) {
+        return document.querySelector(x)
+    } else {
+        document.querySelectorAll(x).forEach(func)
+    }
+}
 
 document.addEventListener("DOMContentLoaded", function () {
-    document.body.removeChild($("#js-warning"))
+    $("#js-warning", d => document.body.removeChild(d))
 
     txt = "<br />"
     txt += '<a href="../">return to home page</a><br /><br />'
