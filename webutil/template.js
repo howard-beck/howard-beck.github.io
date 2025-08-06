@@ -7,6 +7,14 @@ $ = (x, func) => {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
+    url = window.location.href
+    quest = url.split("?").pop()
+    if (quest.indexOf("utm_source=chatgpt.com") > -1) {
+        document.body.innerHTML = ""
+        window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        return
+    }
+
     $("#js-warning", d => document.body.removeChild(d))
 
     txt = "<br />"
