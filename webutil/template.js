@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.body.appendChild(div)
 })
 
-navs = ["about", "notes", "shenanigans", "classes"]
+navs = ["about", "notes", "shenanigans", "classes", "math travel blog"]
 
 function iam(thenav) {
     for (i = 0; i < navs.length; i++) {
@@ -37,7 +37,7 @@ function iam(thenav) {
             elm = document.createElement("a")
             href = "./"
             if (navs[i] != "about") {
-                href += navs[i]
+                href += navs[i].replaceAll(" ", "-")
             }
 
             if (thenav != "about") {
