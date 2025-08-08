@@ -49,4 +49,11 @@ function iam(thenav) {
 
         $("#nav").appendChild(elm)
     }
+
+    if (!navs.includes(thenav)) {
+        elm = document.createElement("span")
+        elm.innerHTML = thenav.replaceAll("-", " ")
+
+        $("#nav").appendChild(elm)
+    }
 }
