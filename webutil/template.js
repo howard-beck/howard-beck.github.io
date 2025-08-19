@@ -6,6 +6,8 @@ $ = (x, func) => {
     }
 }
 
+is_home = false
+
 document.addEventListener("DOMContentLoaded", function () {
     url = window.location.href
     quest = url.split("?").pop()
@@ -17,18 +19,24 @@ document.addEventListener("DOMContentLoaded", function () {
 
     $("#js-warning", d => document.body.removeChild(d))
 
-    txt = "<br />"
-    txt += '<a href="../">return to home page</a><br /><br />'
+    if (!is_home) {
+        txt = "<br />"
+        txt += '<a href="../">return to home page</a><br /><br />'
 
-    div = document.createElement("div")
-    div.innerHTML = txt
+        div = document.createElement("div")
+        div.innerHTML = txt
 
-    document.body.appendChild(div)
+        document.body.appendChild(div)
+    }
 })
 
 navs = ["about", "notes", "shenanigans", "classes", "math travel blog"]
 
 function iam(thenav) {
+    if (thenav == "about") {
+        is_home = true
+    }
+
     for (i = 0; i < navs.length; i++) {
         elm = null;
         if (thenav == navs[i]) {
