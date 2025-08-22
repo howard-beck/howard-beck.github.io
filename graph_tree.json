@@ -1,133 +1,328 @@
 {
     "nodes": [
         {
-            "id": "Justin Noel/137839"
-        },
-        {
-            "id": "Adeel Khan/206444"
-        },
-        {
-            "id": "Whitehead, John Henry Constantine/1423"
-        },
-        {
-            "id": "Carlsson, Gunnar Erik/14885"
-        },
-        {
-            "id": "Suslin, Andrei Aleksandrovich/25531"
-        },
-        {
-            "id": "Oliver R\u00f6ndigs/86729"
-        },
-        {
-            "id": "H\u00f6lder, Otto Ludwig/18608"
+            "id": "XiaoLin Shi/248553"
         },
         {
             "id": "Deo, Narsingh/40741"
         },
         {
-            "id": "Akhil Mathew/275700"
+            "id": "Emily Riehl/153426"
         },
         {
-            "id": "Ehresmann, Charles/96080"
+            "id": "Scott Balchin/224143"
         },
         {
-            "id": "Irakli Patchkoria/175473"
+            "id": "L\u00fcck, Wolfgang/23789"
         },
         {
-            "id": "Mumford, David Bryant/18755"
+            "id": "Werner, Annette/28983"
         },
         {
-            "id": "Bogdan Gheorghe/236324"
+            "id": "Remmert, Reinhold W./7776"
         },
         {
-            "id": "Levine, Marc Noel/36826"
+            "id": "Segal, Graeme Bryce/27142"
         },
         {
-            "id": "Neumann, Carl Gottfried/32858"
+            "id": "Puppe, Dieter Siegmund/25316"
         },
         {
-            "id": "Ayelet Lindenstrauss/27141"
+            "id": "Lior Yanovski/253040"
         },
         {
-            "id": "Dylan Wilson/220085"
+            "id": "Inassaridze, Hvedri/80826"
         },
         {
-            "id": "Vesna Stojanoska/154973"
+            "id": "Beren Sanders/183907"
         },
         {
-            "id": "Wolfgang Steimle/145520"
+            "id": "Tomer Schlank/182601"
         },
         {
-            "id": "Maltsiniotis, Georges/64270"
+            "id": "Aravind Asok/87094"
         },
         {
-            "id": "Inna Zakharevich/200798"
+            "id": "Tobias Lenz/279131"
         },
         {
-            "id": "Bauer, Stefan/25701"
+            "id": "Mark Mahowald/7665"
         },
         {
-            "id": "Moore, John Coleman/4350"
+            "id": "Robinson, Christopher Alan/24462"
         },
         {
-            "id": "David Barnes/165528"
+            "id": "John Rognes/18869"
         },
         {
-            "id": "Grayson, Daniel Richard/11365"
+            "id": "Lefschetz, Solomon/7461"
         },
         {
-            "id": "Bj\u251c\u0116rn Dundas/77919"
+            "id": "John Klein/36793"
         },
         {
-            "id": "Zhouli Xu/216251"
+            "id": "Epstein, David Bernard Alper/24419"
+        },
+        {
+            "id": "Anick, David Jay/37061"
+        },
+        {
+            "id": "Grauert, Hans/18360"
+        },
+        {
+            "id": "Hood Chatham/268160"
+        },
+        {
+            "id": "Matthew Ando/32954"
+        },
+        {
+            "id": "Brooke Shipley/31089"
+        },
+        {
+            "id": "Pirashvili, Teimuraz/96604"
+        },
+        {
+            "id": "Nieveen, Jakob/312258"
+        },
+        {
+            "id": "Ang Li/284632"
+        },
+        {
+            "id": "Po\u00e9naru, Valentin/98580"
+        },
+        {
+            "id": "Westerland, Craig Christopher/22799"
+        },
+        {
+            "id": "Neumann, Frank/27719"
+        },
+        {
+            "id": "Donagi, Ron Yehuda/23198"
+        },
+        {
+            "id": "Puppe, Volker/36117"
+        },
+        {
+            "id": "Threlfall, William Richard Maximilian Hugo/16589"
+        },
+        {
+            "id": "Teichner, Peter/25969"
+        },
+        {
+            "id": "Jonathan Campbell/181219"
+        },
+        {
+            "id": "Geoffroy Horel/185361"
+        },
+        {
+            "id": "Anna Bohmann/153289"
         },
         {
             "id": "Sanath Devalapurkar/187940"
         },
         {
-            "id": "Kreck, Matthias/21019"
+            "id": "Constanze Roitzheim/104362"
         },
         {
-            "id": "Wiles, Andrew John/9696"
+            "id": "Kyle Ormsby/160453"
         },
         {
-            "id": "MacPherson, Robert Duncan/11546"
+            "id": "Constantin Teleman/63055"
         },
         {
-            "id": "Kitchloo, Nitya Ranjan/32972"
+            "id": "Gourevitch, Dmitry/139215"
         },
         {
-            "id": "Steenrod, Norman Earl/7811"
+            "id": "Lurie, Jacob Alexander/84215"
         },
         {
-            "id": "Wylie, Shaun/1406"
+            "id": "Irakli Patchkoria/175473"
         },
         {
-            "id": "Donald Davis/3144"
+            "id": "Bochner, Salomon/8038"
         },
         {
-            "id": "James, Ioan Mackenzie/22474"
+            "id": "Milgram, R. James (Richard)/18610"
         },
         {
-            "id": "Birgit Richter/31566"
+            "id": "Kirsten Wickelgren/142205"
+        },
+        {
+            "id": "Maria Yakerson/251494"
+        },
+        {
+            "id": "Mark Behrens/77080"
+        },
+        {
+            "id": "William Balderrama/283716"
+        },
+        {
+            "id": "Zhouli Xu/216251"
+        },
+        {
+            "id": "Stolz, Stephan/25968"
+        },
+        {
+            "id": "Barge, Jean/90936"
+        },
+        {
+            "id": "Joost Nuiten/264168"
+        },
+        {
+            "id": "Meyer, Curt/21585"
+        },
+        {
+            "id": "Markus Land/211958"
+        },
+        {
+            "id": "Gelbaum, Bernard Russell/8106"
+        },
+        {
+            "id": "Marc Hoyois/186423"
+        },
+        {
+            "id": "Michael Mandell/9372"
+        },
+        {
+            "id": "Das, Sajal K./69293"
+        },
+        {
+            "id": "Douglas Ravenel/12024"
+        },
+        {
+            "id": "Matsusaka, Teruhisa/6476"
+        },
+        {
+            "id": "Shachar Carmeli/280655"
         },
         {
             "id": "van Buchem, Frans Stefanus Petrus/309762"
         },
         {
+            "id": "Miller, Haynes Robert/1305"
+        },
+        {
+            "id": "Gaitsgory, Dennis/53163"
+        },
+        {
+            "id": "Achim Krause/236455"
+        },
+        {
+            "id": "Bogdan Gheorghe/236324"
+        },
+        {
+            "id": "J. May/321210"
+        },
+        {
+            "id": "Dyer, S. Eldon (Sherman)/311"
+        },
+        {
+            "id": "Mingcong Zeng/237608"
+        },
+        {
+            "id": "Land, Markus/204556"
+        },
+        {
+            "id": "Salch, Andrew/157489"
+        },
+        {
+            "id": "Vostokov, Sergei Vladimirovich/16967"
+        },
+        {
             "id": "Bott, Raoul H./7583"
         },
         {
-            "id": "XiaoLin Shi/248553"
+            "id": "John Lind/154323"
         },
         {
-            "id": "Gabriel Angelini-Knoll/252395"
+            "id": "Grayson, Daniel Richard/11365"
         },
         {
-            "id": "tom Dieck, Tammo/26332"
+            "id": "Kan, Daniel Marinus/12549"
         },
         {
-            "id": "Guozhen Wang/224367"
+            "id": "Alexey Ananyevskiy/213603"
+        },
+        {
+            "id": "Kate Ponto/107676"
+        },
+        {
+            "id": "Hanke, Bernhard/38502"
+        },
+        {
+            "id": "Birgit Richter/31566"
+        },
+        {
+            "id": "Prasit Bhattacharya/199115"
+        },
+        {
+            "id": "Browder, William/8587"
+        },
+        {
+            "id": "Tate, Jr., John Torrence/7652"
+        },
+        {
+            "id": "Ojanguren, Manuel/18377"
+        },
+        {
+            "id": "Fritsch, F. Rudolf (Fritz)/38501"
+        },
+        {
+            "id": "Schweigert, Christoph/93174"
+        },
+        {
+            "id": "Ayelet Lindenstrauss/27141"
+        },
+        {
+            "id": "Hopf, Heinz/17409"
+        },
+        {
+            "id": "Allen Yuan/285419"
+        },
+        {
+            "id": "Zeeman, E. Christopher (Eric)/24417"
+        },
+        {
+            "id": "Cisinski, Denis-Charles/74126"
+        },
+        {
+            "id": "Kristian Moi/190128"
+        },
+        {
+            "id": "Whitehouse, Sarah Ann/79763"
+        },
+        {
+            "id": "Schmidt, Erhard/7361"
+        },
+        {
+            "id": "Bartolini, Novella/336383"
+        },
+        {
+            "id": "Charles Rezk/37595"
+        },
+        {
+            "id": "Aeppli, Alfred/4638"
+        },
+        {
+            "id": "Hsiang, Wu-Chung/8591"
+        },
+        {
+            "id": "Christian Schlichtkrull/43826"
+        },
+        {
+            "id": "Bauer, Stefan/25701"
+        },
+        {
+            "id": "Ben Williams/291348"
+        },
+        {
+            "id": "Irina Bobkova/186426"
+        },
+        {
+            "id": "Igusa, Kiyoshi/23349"
+        },
+        {
+            "id": "Loday, Jean-Louis/44614"
         },
         {
             "id": "Dominic Culver/223916"
@@ -136,430 +331,472 @@
             "id": "Paul Goerss/28306"
         },
         {
-            "id": "Hopf, Heinz/17409"
-        },
-        {
-            "id": "Land, Markus/204556"
-        },
-        {
-            "id": "Anick, David Jay/37061"
-        },
-        {
-            "id": "Guchuan Li/253294"
-        },
-        {
-            "id": "Irina Bobkova/186426"
-        },
-        {
-            "id": "Jeremy Miller/170229"
-        },
-        {
-            "id": "Hirzebruch, Friedrich/21252"
-        },
-        {
-            "id": "Threlfall, William Richard Maximilian Hugo/16589"
-        },
-        {
-            "id": "Milgram, R. James (Richard)/18610"
-        },
-        {
-            "id": "J. Quigley/254709"
-        },
-        {
-            "id": "Inbar Klang/248860"
-        },
-        {
-            "id": "Puppe, Volker/36117"
-        },
-        {
-            "id": "Artin, Emil/7690"
-        },
-        {
-            "id": "Kyle Ormsby/160453"
-        },
-        {
-            "id": "Aeppli, Alfred/4638"
-        },
-        {
-            "id": "Lefschetz, Solomon/7461"
-        },
-        {
-            "id": "Alexander Engel/189937"
-        },
-        {
-            "id": "Moritz Groth/157675"
-        },
-        {
-            "id": "Zeeman, E. Christopher (Eric)/24417"
-        },
-        {
-            "id": "Maria Yakerson/251494"
-        },
-        {
-            "id": "Stolz, Stephan/25968"
-        },
-        {
-            "id": "Foling Zou/262055"
-        },
-        {
-            "id": "Adams, J. Frank (John)/24507"
-        },
-        {
-            "id": "Fuchs, J\u00fcrgen/90155"
-        },
-        {
-            "id": "Hatcher, Allen Edward/23358"
-        },
-        {
-            "id": "Browder, William/8587"
-        },
-        {
-            "id": "Mark Mahowald/7665"
-        },
-        {
-            "id": "Gourevitch, Dmitry/139215"
-        },
-        {
-            "id": "John Lind/154323"
-        },
-        {
-            "id": "Fabian Hebestreit/185878"
-        },
-        {
-            "id": "Jeremiah Heller/109193"
-        },
-        {
-            "id": "Allen Yuan/285419"
-        },
-        {
-            "id": "Denis Nardin/261953"
-        },
-        {
-            "id": "Atiyah, Michael Francis/30949"
-        },
-        {
-            "id": "Hans-Werner Henn/23689"
-        },
-        {
-            "id": "Kate Ponto/107676"
-        },
-        {
-            "id": "Daniel Isaksen/23393"
-        },
-        {
-            "id": "Jahren, Bj\u00f8rn/77917"
-        },
-        {
-            "id": "Black, Stanley Warren/199311"
-        },
-        {
-            "id": "Hanke, Bernhard/38502"
-        },
-        {
-            "id": "Duffin, Richard James/13113"
-        },
-        {
-            "id": "Das, Sajal K./69293"
-        },
-        {
-            "id": "Po\u00e9naru, Valentin/98580"
-        },
-        {
-            "id": "Eva Belmont/235746"
-        },
-        {
-            "id": "Pultr, Ales/59152"
-        },
-        {
-            "id": "Vostokov, Sergei Vladimirovich/16967"
-        },
-        {
-            "id": "Vladimir Sosnilo/282928"
-        },
-        {
-            "id": "J. Greenlees/24521"
-        },
-        {
-            "id": "Robinson, Christopher Alan/24462"
-        },
-        {
-            "id": "Tom Bachmann/211438"
-        },
-        {
-            "id": "Tomer Schlank/182601"
-        },
-        {
-            "id": "Marc Hoyois/186423"
-        },
-        {
-            "id": "Rune Haugseng/182756"
-        },
-        {
-            "id": "Levi, Friedrich Wilhelm Daniel/30179"
-        },
-        {
-            "id": "Saul Glasman/191840"
-        },
-        {
-            "id": "Charles Rezk/37595"
-        },
-        {
-            "id": "Thomas Nikolaus/155022"
-        },
-        {
-            "id": "Ningchuan Zhang/265934"
-        },
-        {
             "id": "Hecke, Erich/7379"
-        },
-        {
-            "id": "Ojanguren, Manuel/18377"
-        },
-        {
-            "id": "Harder, G\u00fcnter/21244"
-        },
-        {
-            "id": "Aravind Asok/87094"
-        },
-        {
-            "id": "Hilbert, David/7298"
-        },
-        {
-            "id": "Powell, Geoffrey M. L./23937"
-        },
-        {
-            "id": "Balmer, Paul/44976"
-        },
-        {
-            "id": "Donagi, Ron Yehuda/23198"
-        },
-        {
-            "id": "Alexey Ananyevskiy/213603"
-        },
-        {
-            "id": "Sil Linskens/322492"
         },
         {
             "id": "Dold, Albrecht/24751"
         },
         {
-            "id": "Maria Basterra/23591"
+            "id": "Hirzebruch, Friedrich/21252"
         },
         {
-            "id": "Deninger, Christopher/23622"
-        },
-        {
-            "id": "Agnes Beaudry/174924"
-        },
-        {
-            "id": "Geoffroy Horel/185361"
-        },
-        {
-            "id": "Werner, Annette/28983"
-        },
-        {
-            "id": "Artin, Michael/22863"
-        },
-        {
-            "id": "John Rognes/18869"
-        },
-        {
-            "id": "Kirsten Wickelgren/142205"
-        },
-        {
-            "id": "Christian Schlichtkrull/43826"
-        },
-        {
-            "id": "Tyler Lawson/89296"
-        },
-        {
-            "id": "Panin, Ivan A./65017"
-        },
-        {
-            "id": "Mona Merling/185111"
-        },
-        {
-            "id": "Samelson, Hans/7787"
-        },
-        {
-            "id": "Jonathan Campbell/181219"
-        },
-        {
-            "id": "Massey, William Schumacher/8594"
-        },
-        {
-            "id": "Andrew Senger/273587"
-        },
-        {
-            "id": "Nathaniel Stapleton/157754"
-        },
-        {
-            "id": "Lennart Meier/166621"
-        },
-        {
-            "id": "Daniel Kasprowski/253025"
-        },
-        {
-            "id": "Ne\u0161et\u0159il, Jaroslav/80983"
-        },
-        {
-            "id": "Schweigert, Christoph/93174"
-        },
-        {
-            "id": "Prasit Bhattacharya/199115"
-        },
-        {
-            "id": "Nicolas Ricka/201736"
-        },
-        {
-            "id": "Lichtenbaum, Stephen/13002"
-        },
-        {
-            "id": "Constantin Teleman/63055"
-        },
-        {
-            "id": "May, J. (Jon) Peter/6608"
-        },
-        {
-            "id": "Teichner, Peter/25969"
-        },
-        {
-            "id": "Dustin Clausen/192146"
-        },
-        {
-            "id": "Remmert, Reinhold W./7776"
-        },
-        {
-            "id": "John Klein/36793"
-        },
-        {
-            "id": "Emanuele Dotto/173831"
-        },
-        {
-            "id": "Peter Bonventre/217765"
-        },
-        {
-            "id": "J. May/321210"
-        },
-        {
-            "id": "Andrew Blumberg/98808"
-        },
-        {
-            "id": "Dijkgraaf, Robbert/88620"
-        },
-        {
-            "id": "Michael Mandell/9372"
-        },
-        {
-            "id": "Mark Hovey/64874"
-        },
-        {
-            "id": "Salch, Andrew/157489"
-        },
-        {
-            "id": "Constanze Roitzheim/104362"
-        },
-        {
-            "id": "Madsen, Ib Henning/6627"
-        },
-        {
-            "id": "Soren Galatius/117706"
-        },
-        {
-            "id": "Witt, Ernst/22905"
-        },
-        {
-            "id": "Clark Barwick/93010"
-        },
-        {
-            "id": "Nieveen, Jakob/312258"
-        },
-        {
-            "id": "Shachar Carmeli/280655"
-        },
-        {
-            "id": "Hood Chatham/268160"
-        },
-        {
-            "id": "Puppe, Dieter Siegmund/25316"
-        },
-        {
-            "id": "Mark Behrens/77080"
-        },
-        {
-            "id": "Rinow, Willi Ludwig August/20673"
-        },
-        {
-            "id": "Brooke Shipley/31089"
-        },
-        {
-            "id": "David Gepner/109720"
-        },
-        {
-            "id": "Troelstra, Anne Sjerp/45627"
-        },
-        {
-            "id": "Hesse, Otto/46967"
-        },
-        {
-            "id": "Du Bois-Reymond, Paul/18332"
-        },
-        {
-            "id": "Heckman, James Joseph/198375"
-        },
-        {
-            "id": "Jay Shah/266190"
-        },
-        {
-            "id": "Segal, Graeme Bryce/27142"
-        },
-        {
-            "id": "Friedlander, Eric Mark/13041"
-        },
-        {
-            "id": "Stefan Schwede/28549"
-        },
-        {
-            "id": "Ray, Nigel/24511"
-        },
-        {
-            "id": "Viet-Cuong Pham/259080"
-        },
-        {
-            "id": "Inassaridze, Hvedri/80826"
-        },
-        {
-            "id": "Hsiang, Wu-Chung/8591"
-        },
-        {
-            "id": "Pantev, Tony/23078"
-        },
-        {
-            "id": "Elden Elmanto/240163"
-        },
-        {
-            "id": "Igusa, Kiyoshi/23349"
-        },
-        {
-            "id": "Grauert, Hans/18360"
+            "id": "Hatcher, Allen Edward/23358"
         },
         {
             "id": "J. Christensen/37032"
         },
         {
-            "id": "Waldhausen, Friedhelm/24057"
+            "id": "Du Bois-Reymond, Paul/18332"
         },
         {
-            "id": "Alejandro Adem/4348"
+            "id": "Steffen Sagave/99322"
         },
         {
-            "id": "Drew Heard/187812"
+            "id": "Lichtenbaum, Stephen/13002"
         },
         {
             "id": "Lars Hesselholt/43964"
         },
         {
+            "id": "Daniel Dugger/37017"
+        },
+        {
+            "id": "Bastiaan Cnossen/303411"
+        },
+        {
+            "id": "tom Dieck, Tammo/26332"
+        },
+        {
+            "id": "Adams, J. Frank (John)/24507"
+        },
+        {
+            "id": "Levi, Friedrich Wilhelm Daniel/30179"
+        },
+        {
+            "id": "Benjamin Antieau/151817"
+        },
+        {
+            "id": "J. Quigley/254709"
+        },
+        {
+            "id": "Dylan Wilson/220085"
+        },
+        {
+            "id": "Hodge, William Vallance Douglas/18583"
+        },
+        {
+            "id": "Ne\u0161et\u0159il, Jaroslav/80983"
+        },
+        {
+            "id": "Gabriel Angelini-Knoll/252395"
+        },
+        {
+            "id": "Guozhen Wang/224367"
+        },
+        {
+            "id": "Nathaniel Stapleton/157754"
+        },
+        {
+            "id": "Black, Stanley Warren/199311"
+        },
+        {
+            "id": "Ray, Nigel/24511"
+        },
+        {
+            "id": "Elden Elmanto/240163"
+        },
+        {
+            "id": "Wilder, Raymond Louis/291"
+        },
+        {
+            "id": "Sarah Yeakel/219752"
+        },
+        {
+            "id": "Artin, Emil/7690"
+        },
+        {
+            "id": "Thomas Nikolaus/155022"
+        },
+        {
+            "id": "Bondarko, Mikhail Vladimirovich/191575"
+        },
+        {
+            "id": "Maria Basterra/23591"
+        },
+        {
+            "id": "Daniel Kasprowski/253025"
+        },
+        {
+            "id": "Saul Glasman/191840"
+        },
+        {
+            "id": "Tyler Lawson/89296"
+        },
+        {
+            "id": "Moritz Groth/157675"
+        },
+        {
+            "id": "Morel, Fabien/124095"
+        },
+        {
+            "id": "Jeremy Hahn/271570"
+        },
+        {
+            "id": "Pantev, Tony/23078"
+        },
+        {
+            "id": "Hana Kong/272159"
+        },
+        {
+            "id": "Troelstra, Anne Sjerp/45627"
+        },
+        {
+            "id": "Jahren, Bj\u00f8rn/77917"
+        },
+        {
+            "id": "Jay Shah/266190"
+        },
+        {
+            "id": "Oliver R\u00f6ndigs/86729"
+        },
+        {
+            "id": "Wiles, Andrew John/9696"
+        },
+        {
+            "id": "Denis Nardin/261953"
+        },
+        {
+            "id": "Smith, Larry (Lawrence)/12023"
+        },
+        {
+            "id": "MacPherson, Robert Duncan/11546"
+        },
+        {
+            "id": "Vesna Stojanoska/154973"
+        },
+        {
+            "id": "Bosch, Siegfried/26327"
+        },
+        {
+            "id": "W. Wilson/20544"
+        },
+        {
+            "id": "Jeremy Miller/170229"
+        },
+        {
+            "id": "Bashmakov, Mark/87995"
+        },
+        {
+            "id": "Akhil Mathew/275700"
+        },
+        {
+            "id": "Teena Gerhardt/110551"
+        },
+        {
+            "id": "Jeremiah Heller/109193"
+        },
+        {
+            "id": "Jean Fasel/90942"
+        },
+        {
+            "id": "Agnes Beaudry/174924"
+        },
+        {
+            "id": "Peter Bonventre/217765"
+        },
+        {
+            "id": "Heckman, James Joseph/198375"
+        },
+        {
+            "id": "Michael Hill/109370"
+        },
+        {
+            "id": "Ehresmann, Charles/96080"
+        },
+        {
+            "id": "Andrew Senger/273587"
+        },
+        {
+            "id": "Massey, William Schumacher/8594"
+        },
+        {
+            "id": "Mona Merling/185111"
+        },
+        {
+            "id": "Michael Hopkins/5672"
+        },
+        {
+            "id": "Andrew Blumberg/98808"
+        },
+        {
+            "id": "McCarthy, Randy/25031"
+        },
+        {
+            "id": "Markus Szymik/74651"
+        },
+        {
+            "id": "B\u00f6digheimer, Carl-Friedrich/25707"
+        },
+        {
+            "id": "Ningchuan Zhang/265934"
+        },
+        {
+            "id": "J. Greenlees/24521"
+        },
+        {
+            "id": "Seifert, Herbert Karl Johannes/15668"
+        },
+        {
+            "id": "Donald Davis/3144"
+        },
+        {
+            "id": "Behnke, Heinrich Adolph/15253"
+        },
+        {
+            "id": "Vladimir Sosnilo/282928"
+        },
+        {
+            "id": "Drew Heard/187812"
+        },
+        {
+            "id": "Joachim, Michael/14838"
+        },
+        {
+            "id": "Markus Spitzweck/203653"
+        },
+        {
+            "id": "Stefan Schwede/28549"
+        },
+        {
+            "id": "Nicolas Ricka/201736"
+        },
+        {
+            "id": "Moore, R. L. (Robert Lee)/286"
+        },
+        {
+            "id": "Levine, Marc Noel/36826"
+        },
+        {
+            "id": "Neil Strickland/75751"
+        },
+        {
+            "id": "Clark Barwick/93010"
+        },
+        {
+            "id": "Harder, G\u00fcnter/21244"
+        },
+        {
+            "id": "Whitehead, John Henry Constantine/1423"
+        },
+        {
+            "id": "Markus Hausmann/204231"
+        },
+        {
+            "id": "Kitchloo, Nitya Ranjan/32972"
+        },
+        {
+            "id": "Atiyah, Michael Francis/30949"
+        },
+        {
+            "id": "Bj\u251c\u0116rn Dundas/77919"
+        },
+        {
+            "id": "Gregory Arone/4506"
+        },
+        {
+            "id": "Ralph Cohen/12025"
+        },
+        {
+            "id": "Inna Zakharevich/200798"
+        },
+        {
+            "id": "Dustin Clausen/192146"
+        },
+        {
+            "id": "Lennart Meier/166621"
+        },
+        {
+            "id": "Inbar Klang/248860"
+        },
+        {
+            "id": "Foling Zou/262055"
+        },
+        {
+            "id": "Gelbart, Stephen Samuel/8337"
+        },
+        {
+            "id": "Gillet, Henri Antoine/28526"
+        },
+        {
+            "id": "Adeel Khan/206444"
+        },
+        {
+            "id": "Silvestri, Simone/266191"
+        },
+        {
+            "id": "Neumann, Carl Gottfried/32858"
+        },
+        {
+            "id": "Francis, John Nathan Kirkpatrick/126757"
+        },
+        {
+            "id": "Goodwillie, Thomas Gehret/11357"
+        },
+        {
+            "id": "Jack Morava/388"
+        },
+        {
+            "id": "Hilbert, David/7298"
+        },
+        {
+            "id": "Whitehead, Jr., George William/6374"
+        },
+        {
+            "id": "Hesse, Otto/46967"
+        },
+        {
+            "id": "Niko Naumann/83004"
+        },
+        {
+            "id": "Christoph Winges/253024"
+        },
+        {
+            "id": "Maltsiniotis, Georges/64270"
+        },
+        {
+            "id": "H\u00f6lder, Otto Ludwig/18608"
+        },
+        {
+            "id": "Witt, Ernst/22905"
+        },
+        {
+            "id": "Mark Hovey/64874"
+        },
+        {
+            "id": "Alexander Kupers/203715"
+        },
+        {
+            "id": "Eva Belmont/235746"
+        },
+        {
+            "id": "Alexander Engel/189937"
+        },
+        {
+            "id": "Carlsson, Gunnar Erik/14885"
+        },
+        {
+            "id": "Grodal, Jesper Kragh/47858"
+        },
+        {
+            "id": "Viet-Cuong Pham/259080"
+        },
+        {
+            "id": "Maxime Ramzi/324759"
+        },
+        {
+            "id": "Bartels, Arthur Clemens/38373"
+        },
+        {
+            "id": "Vigleik Angeltveit/99822"
+        },
+        {
+            "id": "Ulrich Bunke/22066"
+        },
+        {
+            "id": "Kriz, Igor/52316"
+        },
+        {
+            "id": "Panin, Ivan A./65017"
+        },
+        {
+            "id": "Alejandro Adem/4348"
+        },
+        {
+            "id": "Powell, Geoffrey M. L./23937"
+        },
+        {
             "id": "Gabriel Valenzuela/200606"
+        },
+        {
+            "id": "Madsen, Ib Henning/6627"
+        },
+        {
+            "id": "Daniel Isaksen/23393"
+        },
+        {
+            "id": "de Shalit, Ehud/50929"
+        },
+        {
+            "id": "Deninger, Christopher/23622"
+        },
+        {
+            "id": "Dijkgraaf, Robbert/88620"
+        },
+        {
+            "id": "Samelson, Hans/7787"
+        },
+        {
+            "id": "Pultr, Ales/59152"
+        },
+        {
+            "id": "Ulrike Tillmann/39171"
+        },
+        {
+            "id": "May, J. (Jon) Peter/6608"
+        },
+        {
+            "id": "Waldhausen, Friedhelm/24057"
+        },
+        {
+            "id": "Moore, John Coleman/4350"
+        },
+        {
+            "id": "Weber, Heinrich Martin/16915"
+        },
+        {
+            "id": "Martin Frankland/148101"
+        },
+        {
+            "id": "Eichhorn, J\u00fcrgen/22012"
+        },
+        {
+            "id": "Friedlander, Eric Mark/13041"
+        },
+        {
+            "id": "Bernstein, Joseph N./18743"
+        },
+        {
+            "id": "David Barnes/165528"
+        },
+        {
+            "id": "Emanuele Dotto/173831"
+        },
+        {
+            "id": "Curtis, Morton L./5144"
+        },
+        {
+            "id": "David Mehrle/286637"
+        },
+        {
+            "id": "Fuchs, J\u00fcrgen/90155"
+        },
+        {
+            "id": "Sil Linskens/322492"
+        },
+        {
+            "id": "Jos\u251c\u00ae G\u251c\u2502mez/292943"
+        },
+        {
+            "id": "Brown, Jr., Edgar Henry/1465"
+        },
+        {
+            "id": "Lannes, Jean E./119474"
+        },
+        {
+            "id": "Chandrasekharan, Komaravolu S./79756"
+        },
+        {
+            "id": "Justin Noel/137839"
         },
         {
             "id": "Bertrand Guillou/123877"
@@ -568,1173 +805,94 @@
             "id": "Cary Malkiewich/191314"
         },
         {
-            "id": "Beren Sanders/183907"
+            "id": "Wolfgang Steimle/145520"
         },
         {
-            "id": "Smith, Larry (Lawrence)/12023"
+            "id": "Mumford, David Bryant/18755"
         },
         {
-            "id": "Christoph Winges/253024"
-        },
-        {
-            "id": "Benjamin Antieau/151817"
-        },
-        {
-            "id": "Scott Balchin/224143"
-        },
-        {
-            "id": "Weber, Heinrich Martin/16915"
-        },
-        {
-            "id": "Jeremy Hahn/271570"
-        },
-        {
-            "id": "Tate, Jr., John Torrence/7652"
-        },
-        {
-            "id": "Daniel Dugger/37017"
-        },
-        {
-            "id": "Douglas Ravenel/12024"
-        },
-        {
-            "id": "Whitehead, Jr., George William/6374"
-        },
-        {
-            "id": "Joachim, Michael/14838"
-        },
-        {
-            "id": "Eichhorn, J\u00fcrgen/22012"
-        },
-        {
-            "id": "Markus Spitzweck/203653"
-        },
-        {
-            "id": "Matsusaka, Teruhisa/6476"
-        },
-        {
-            "id": "Kathryn Hess/36982"
-        },
-        {
-            "id": "Bashmakov, Mark/87995"
-        },
-        {
-            "id": "Jean Fasel/90942"
-        },
-        {
-            "id": "Peterson, Franklin Paul/8592"
-        },
-        {
-            "id": "Eckmann, Beno/18355"
-        },
-        {
-            "id": "Matthew Ando/32954"
-        },
-        {
-            "id": "Michael Hill/109370"
-        },
-        {
-            "id": "Kriz, Igor/52316"
-        },
-        {
-            "id": "Anna Bohmann/153289"
-        },
-        {
-            "id": "Bartolini, Novella/336383"
-        },
-        {
-            "id": "Chandrasekharan, Komaravolu S./79756"
-        },
-        {
-            "id": "Lior Yanovski/253040"
-        },
-        {
-            "id": "Ulrike Tillmann/39171"
-        },
-        {
-            "id": "Michael Hopkins/5672"
-        },
-        {
-            "id": "Silvestri, Simone/266191"
-        },
-        {
-            "id": "Gaitsgory, Dennis/53163"
-        },
-        {
-            "id": "Jordan Williamson/286222"
-        },
-        {
-            "id": "L\u00fcck, Wolfgang/23789"
-        },
-        {
-            "id": "W. Wilson/20544"
-        },
-        {
-            "id": "Meyer, Curt/21585"
-        },
-        {
-            "id": "Barge, Jean/90936"
-        },
-        {
-            "id": "Ulrich Bunke/22066"
-        },
-        {
-            "id": "Kan, Daniel Marinus/12549"
-        },
-        {
-            "id": "Neumann, Frank/27719"
-        },
-        {
-            "id": "Seifert, Herbert Karl Johannes/15668"
-        },
-        {
-            "id": "Sarah Yeakel/219752"
-        },
-        {
-            "id": "Bondarko, Mikhail Vladimirovich/191575"
-        },
-        {
-            "id": "Gelbaum, Bernard Russell/8106"
-        },
-        {
-            "id": "Ben Williams/291348"
-        },
-        {
-            "id": "Markus Hausmann/204231"
-        },
-        {
-            "id": "Maxime Ramzi/324759"
-        },
-        {
-            "id": "Lannes, Jean E./119474"
-        },
-        {
-            "id": "Kristian Moi/190128"
-        },
-        {
-            "id": "Steffen Sagave/99322"
-        },
-        {
-            "id": "Vigleik Angeltveit/99822"
-        },
-        {
-            "id": "Ralph Cohen/12025"
-        },
-        {
-            "id": "Markus Szymik/74651"
-        },
-        {
-            "id": "Bartels, Arthur Clemens/38373"
-        },
-        {
-            "id": "Story, William Edward/7451"
-        },
-        {
-            "id": "Joost Nuiten/264168"
-        },
-        {
-            "id": "Grodal, Jesper Kragh/47858"
-        },
-        {
-            "id": "Bastiaan Cnossen/303411"
-        },
-        {
-            "id": "Neil Strickland/75751"
-        },
-        {
-            "id": "Niko Naumann/83004"
+            "id": "Wylie, Shaun/1406"
         },
         {
             "id": "Moerdijk, Ieke/55506"
         },
         {
-            "id": "de Shalit, Ehud/50929"
+            "id": "Hans-Werner Henn/23689"
         },
         {
-            "id": "Alexander Kupers/203715"
+            "id": "Steenrod, Norman Earl/7811"
         },
         {
-            "id": "Markus Land/211958"
+            "id": "Kathryn Hess/36982"
         },
         {
-            "id": "Gregory Arone/4506"
-        },
-        {
-            "id": "Ang Li/284632"
-        },
-        {
-            "id": "Bochner, Salomon/8038"
-        },
-        {
-            "id": "Bernstein, Joseph N./18743"
-        },
-        {
-            "id": "Jos\u251c\u00ae G\u251c\u2502mez/292943"
-        },
-        {
-            "id": "Dror Farjoun, Emmanuel/26886"
-        },
-        {
-            "id": "Morel, Fabien/124095"
-        },
-        {
-            "id": "Miller, Haynes Robert/1305"
+            "id": "Suslin, Andrei Aleksandrovich/25531"
         },
         {
             "id": "Vitaly Lorman/202950"
         },
         {
-            "id": "Brown, Jr., Edgar Henry/1465"
+            "id": "Rinow, Willi Ludwig August/20673"
         },
         {
-            "id": "Mingcong Zeng/237608"
+            "id": "Peterson, Franklin Paul/8592"
         },
         {
-            "id": "B\u00f6digheimer, Carl-Friedrich/25707"
+            "id": "Artin, Michael/22863"
         },
         {
-            "id": "Teena Gerhardt/110551"
+            "id": "Soren Galatius/117706"
         },
         {
-            "id": "Lurie, Jacob Alexander/84215"
+            "id": "Eckmann, Beno/18355"
         },
         {
-            "id": "Francis, John Nathan Kirkpatrick/126757"
-        },
-        {
-            "id": "McCarthy, Randy/25031"
-        },
-        {
-            "id": "Cisinski, Denis-Charles/74126"
-        },
-        {
-            "id": "Epstein, David Bernard Alper/24419"
-        },
-        {
-            "id": "David Mehrle/286637"
-        },
-        {
-            "id": "Gillet, Henri Antoine/28526"
-        },
-        {
-            "id": "Bosch, Siegfried/26327"
+            "id": "Story, William Edward/7451"
         },
         {
             "id": "Paul \u00d8stv\u00e6r/44645"
         },
         {
-            "id": "Gelbart, Stephen Samuel/8337"
+            "id": "Dror Farjoun, Emmanuel/26886"
         },
         {
-            "id": "Fritsch, F. Rudolf (Fritz)/38501"
+            "id": "Guchuan Li/253294"
         },
         {
-            "id": "Tobias Lenz/279131"
+            "id": "Jordan Williamson/286222"
         },
         {
-            "id": "Pirashvili, Teimuraz/96604"
+            "id": "Balmer, Paul/44976"
         },
         {
-            "id": "Achim Krause/236455"
-        },
-        {
-            "id": "Loday, Jean-Louis/44614"
-        },
-        {
-            "id": "Goodwillie, Thomas Gehret/11357"
-        },
-        {
-            "id": "Whitehouse, Sarah Ann/79763"
-        },
-        {
-            "id": "Emily Riehl/153426"
-        },
-        {
-            "id": "Behnke, Heinrich Adolph/15253"
+            "id": "Kreck, Matthias/21019"
         },
         {
             "id": "David Chan/302893"
         },
         {
-            "id": "Westerland, Craig Christopher/22799"
+            "id": "Fabian Hebestreit/185878"
         },
         {
-            "id": "Schmidt, Erhard/7361"
+            "id": "James, Ioan Mackenzie/22474"
         },
         {
-            "id": "William Balderrama/283716"
+            "id": "Tom Bachmann/211438"
         },
         {
-            "id": "Hana Kong/272159"
+            "id": "Duffin, Richard James/13113"
         },
         {
-            "id": "Martin Frankland/148101"
+            "id": "Rune Haugseng/182756"
+        },
+        {
+            "id": "David Gepner/109720"
         }
     ],
     "links": [
         {
-            "source": "Justin Noel/137839",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Michael Hill/109370",
-            "target": "Michael Hopkins/5672",
-            "value": 1
-        },
-        {
-            "source": "Suslin, Andrei Aleksandrovich/25531",
-            "target": "Bashmakov, Mark/87995",
-            "value": 1
-        },
-        {
-            "source": "Maria Yakerson/251494",
-            "target": "Levine, Marc Noel/36826",
-            "value": 1
-        },
-        {
-            "source": "Jahren, Bj\u00f8rn/77917",
-            "target": "Hsiang, Wu-Chung/8591",
-            "value": 1
-        },
-        {
-            "source": "Whitehead, Jr., George William/6374",
-            "target": "Steenrod, Norman Earl/7811",
-            "value": 1
-        },
-        {
-            "source": "Aeppli, Alfred/4638",
-            "target": "Hopf, Heinz/17409",
-            "value": 1
-        },
-        {
-            "source": "Constanze Roitzheim/104362",
-            "target": "Stefan Schwede/28549",
-            "value": 1
-        },
-        {
-            "source": "Sanath Devalapurkar/187940",
-            "target": "Gaitsgory, Dennis/53163",
-            "value": 1
-        },
-        {
-            "source": "Daniel Dugger/37017",
-            "target": "Michael Hopkins/5672",
-            "value": 1
-        },
-        {
-            "source": "Gourevitch, Dmitry/139215",
-            "target": "Gelbart, Stephen Samuel/8337",
-            "value": 1
-        },
-        {
-            "source": "Adeel Khan/206444",
-            "target": "Cisinski, Denis-Charles/74126",
-            "value": 1
-        },
-        {
-            "source": "Nieveen, Jakob/312258",
-            "target": "van Buchem, Frans Stefanus Petrus/309762",
-            "value": 1
-        },
-        {
-            "source": "Irina Bobkova/186426",
-            "target": "Paul Goerss/28306",
-            "value": 1
-        },
-        {
-            "source": "Foling Zou/262055",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Teena Gerhardt/110551",
-            "target": "Lars Hesselholt/43964",
-            "value": 1
-        },
-        {
-            "source": "Christian Schlichtkrull/43826",
-            "target": "Madsen, Ib Henning/6627",
-            "value": 1
-        },
-        {
-            "source": "Kriz, Igor/52316",
-            "target": "Ne\u0161et\u0159il, Jaroslav/80983",
-            "value": 1
-        },
-        {
-            "source": "Scott Balchin/224143",
-            "target": "Neumann, Frank/27719",
-            "value": 1
-        },
-        {
-            "source": "Grauert, Hans/18360",
-            "target": "Behnke, Heinrich Adolph/15253",
-            "value": 1
-        },
-        {
-            "source": "Robinson, Christopher Alan/24462",
-            "target": "Epstein, David Bernard Alper/24419",
-            "value": 1
-        },
-        {
-            "source": "XiaoLin Shi/248553",
-            "target": "Michael Hopkins/5672",
-            "value": 1
-        },
-        {
-            "source": "W. Wilson/20544",
-            "target": "Peterson, Franklin Paul/8592",
-            "value": 1
-        },
-        {
-            "source": "Zhouli Xu/216251",
-            "target": "Daniel Isaksen/23393",
-            "value": 1
-        },
-        {
-            "source": "Jeremy Hahn/271570",
-            "target": "Michael Hopkins/5672",
-            "value": 1
-        },
-        {
-            "source": "Markus Szymik/74651",
-            "target": "Bauer, Stefan/25701",
-            "value": 1
-        },
-        {
-            "source": "Donald Davis/3144",
-            "target": "Milgram, R. James (Richard)/18610",
-            "value": 1
-        },
-        {
-            "source": "Levine, Marc Noel/36826",
-            "target": "Matsusaka, Teruhisa/6476",
-            "value": 1
-        },
-        {
-            "source": "Marc Hoyois/186423",
-            "target": "Suslin, Andrei Aleksandrovich/25531",
-            "value": 1
-        },
-        {
-            "source": "Gillet, Henri Antoine/28526",
-            "target": "Mumford, David Bryant/18755",
-            "value": 1
-        },
-        {
-            "source": "Jordan Williamson/286222",
-            "target": "Whitehouse, Sarah Ann/79763",
-            "value": 1
-        },
-        {
-            "source": "Aravind Asok/87094",
-            "target": "MacPherson, Robert Duncan/11546",
-            "value": 1
-        },
-        {
-            "source": "Tate, Jr., John Torrence/7652",
-            "target": "Artin, Emil/7690",
-            "value": 1
-        },
-        {
-            "source": "Zeeman, E. Christopher (Eric)/24417",
-            "target": "Wylie, Shaun/1406",
-            "value": 1
-        },
-        {
-            "source": "Kitchloo, Nitya Ranjan/32972",
-            "target": "Miller, Haynes Robert/1305",
-            "value": 1
-        },
-        {
-            "source": "Whitehouse, Sarah Ann/79763",
-            "target": "Robinson, Christopher Alan/24462",
-            "value": 1
-        },
-        {
-            "source": "Douglas Ravenel/12024",
-            "target": "Brown, Jr., Edgar Henry/1465",
-            "value": 1
-        },
-        {
-            "source": "Andrew Blumberg/98808",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Fabian Hebestreit/185878",
-            "target": "Joachim, Michael/14838",
-            "value": 1
-        },
-        {
-            "source": "Smith, Larry (Lawrence)/12023",
-            "target": "Massey, William Schumacher/8594",
-            "value": 1
-        },
-        {
-            "source": "Pantev, Tony/23078",
-            "target": "Donagi, Ron Yehuda/23198",
-            "value": 1
-        },
-        {
-            "source": "Goodwillie, Thomas Gehret/11357",
-            "target": "Hsiang, Wu-Chung/8591",
-            "value": 1
-        },
-        {
-            "source": "Behnke, Heinrich Adolph/15253",
-            "target": "Hecke, Erich/7379",
-            "value": 1
-        },
-        {
-            "source": "de Shalit, Ehud/50929",
-            "target": "Wiles, Andrew John/9696",
-            "value": 1
-        },
-        {
-            "source": "Jonathan Campbell/181219",
-            "target": "Ralph Cohen/12025",
-            "value": 1
-        },
-        {
-            "source": "Gourevitch, Dmitry/139215",
-            "target": "Bernstein, Joseph N./18743",
-            "value": 1
-        },
-        {
-            "source": "Matthew Ando/32954",
-            "target": "Miller, Haynes Robert/1305",
-            "value": 1
-        },
-        {
-            "source": "Alexander Kupers/203715",
-            "target": "Soren Galatius/117706",
-            "value": 1
-        },
-        {
-            "source": "Lefschetz, Solomon/7461",
-            "target": "Story, William Edward/7451",
-            "value": 1
-        },
-        {
-            "source": "Teichner, Peter/25969",
-            "target": "Kreck, Matthias/21019",
-            "value": 1
-        },
-        {
-            "source": "Jeremiah Heller/109193",
-            "target": "Friedlander, Eric Mark/13041",
-            "value": 1
-        },
-        {
-            "source": "Viet-Cuong Pham/259080",
-            "target": "Hans-Werner Henn/23689",
-            "value": 1
-        },
-        {
-            "source": "Adeel Khan/206444",
-            "target": "Levine, Marc Noel/36826",
-            "value": 1
-        },
-        {
-            "source": "Zhouli Xu/216251",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Kriz, Igor/52316",
-            "target": "Pultr, Ales/59152",
-            "value": 1
-        },
-        {
-            "source": "Francis, John Nathan Kirkpatrick/126757",
-            "target": "Michael Hopkins/5672",
-            "value": 1
-        },
-        {
-            "source": "Joachim, Michael/14838",
-            "target": "Stolz, Stephan/25968",
-            "value": 1
-        },
-        {
-            "source": "Threlfall, William Richard Maximilian Hugo/16589",
-            "target": "Levi, Friedrich Wilhelm Daniel/30179",
-            "value": 1
-        },
-        {
-            "source": "Eichhorn, J\u00fcrgen/22012",
-            "target": "Rinow, Willi Ludwig August/20673",
-            "value": 1
-        },
-        {
-            "source": "Wolfgang Steimle/145520",
-            "target": "L\u00fcck, Wolfgang/23789",
-            "value": 1
-        },
-        {
-            "source": "Pirashvili, Teimuraz/96604",
-            "target": "Inassaridze, Hvedri/80826",
-            "value": 1
-        },
-        {
-            "source": "David Gepner/109720",
-            "target": "Matthew Ando/32954",
-            "value": 1
-        },
-        {
-            "source": "Neumann, Carl Gottfried/32858",
-            "target": "Hesse, Otto/46967",
-            "value": 1
-        },
-        {
-            "source": "Martin Frankland/148101",
-            "target": "Miller, Haynes Robert/1305",
-            "value": 1
-        },
-        {
-            "source": "Wylie, Shaun/1406",
-            "target": "Lefschetz, Solomon/7461",
-            "value": 1
-        },
-        {
-            "source": "Hirzebruch, Friedrich/21252",
-            "target": "Behnke, Heinrich Adolph/15253",
-            "value": 1
-        },
-        {
-            "source": "Heckman, James Joseph/198375",
-            "target": "Black, Stanley Warren/199311",
-            "value": 1
-        },
-        {
-            "source": "Hopf, Heinz/17409",
-            "target": "Schmidt, Erhard/7361",
-            "value": 1
-        },
-        {
-            "source": "Inna Zakharevich/200798",
-            "target": "Michael Hopkins/5672",
-            "value": 1
-        },
-        {
-            "source": "Das, Sajal K./69293",
-            "target": "Deo, Narsingh/40741",
-            "value": 1
-        },
-        {
-            "source": "Ulrich Bunke/22066",
-            "target": "Eichhorn, J\u00fcrgen/22012",
-            "value": 1
-        },
-        {
-            "source": "Moritz Groth/157675",
-            "target": "Stefan Schwede/28549",
-            "value": 1
-        },
-        {
-            "source": "Prasit Bhattacharya/199115",
-            "target": "Michael Mandell/9372",
-            "value": 1
-        },
-        {
-            "source": "Puppe, Volker/36117",
-            "target": "Dold, Albrecht/24751",
-            "value": 1
-        },
-        {
-            "source": "Dominic Culver/223916",
-            "target": "Mark Behrens/77080",
-            "value": 1
-        },
-        {
-            "source": "Peterson, Franklin Paul/8592",
-            "target": "Steenrod, Norman Earl/7811",
-            "value": 1
-        },
-        {
-            "source": "Mark Mahowald/7665",
-            "target": "Gelbaum, Bernard Russell/8106",
-            "value": 1
-        },
-        {
-            "source": "J. Quigley/254709",
-            "target": "Mark Behrens/77080",
-            "value": 1
-        },
-        {
-            "source": "Joost Nuiten/264168",
-            "target": "Moerdijk, Ieke/55506",
-            "value": 1
-        },
-        {
-            "source": "Emanuele Dotto/173831",
-            "target": "Madsen, Ib Henning/6627",
-            "value": 1
-        },
-        {
-            "source": "Bochner, Salomon/8038",
-            "target": "Schmidt, Erhard/7361",
-            "value": 1
-        },
-        {
-            "source": "Dylan Wilson/220085",
-            "target": "Paul Goerss/28306",
-            "value": 1
-        },
-        {
-            "source": "Christoph Winges/253024",
-            "target": "Bartels, Arthur Clemens/38373",
-            "value": 1
-        },
-        {
-            "source": "Saul Glasman/191840",
-            "target": "Clark Barwick/93010",
-            "value": 1
-        },
-        {
-            "source": "Mark Behrens/77080",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Sarah Yeakel/219752",
-            "target": "McCarthy, Randy/25031",
-            "value": 1
-        },
-        {
-            "source": "Moore, John Coleman/4350",
-            "target": "Whitehead, Jr., George William/6374",
-            "value": 1
-        },
-        {
-            "source": "Vitaly Lorman/202950",
-            "target": "Kitchloo, Nitya Ranjan/32972",
-            "value": 1
-        },
-        {
-            "source": "Peter Bonventre/217765",
-            "target": "Michael Hill/109370",
-            "value": 1
-        },
-        {
-            "source": "Schweigert, Christoph/93174",
-            "target": "Dijkgraaf, Robbert/88620",
-            "value": 1
-        },
-        {
-            "source": "Grauert, Hans/18360",
-            "target": "Eckmann, Beno/18355",
-            "value": 1
-        },
-        {
-            "source": "Denis Nardin/261953",
-            "target": "Clark Barwick/93010",
-            "value": 1
-        },
-        {
-            "source": "Inbar Klang/248860",
-            "target": "Ralph Cohen/12025",
-            "value": 1
-        },
-        {
-            "source": "Jean Fasel/90942",
-            "target": "Ojanguren, Manuel/18377",
-            "value": 1
-        },
-        {
-            "source": "McCarthy, Randy/25031",
-            "target": "Lichtenbaum, Stephen/13002",
-            "value": 1
-        },
-        {
-            "source": "Hanke, Bernhard/38502",
-            "target": "Puppe, Volker/36117",
-            "value": 1
-        },
-        {
-            "source": "Nicolas Ricka/201736",
-            "target": "Powell, Geoffrey M. L./23937",
-            "value": 1
-        },
-        {
-            "source": "Ulrike Tillmann/39171",
-            "target": "Ralph Cohen/12025",
-            "value": 1
-        },
-        {
-            "source": "Du Bois-Reymond, Paul/18332",
-            "target": "Hesse, Otto/46967",
-            "value": 1
-        },
-        {
-            "source": "Friedlander, Eric Mark/13041",
-            "target": "Artin, Michael/22863",
-            "value": 1
-        },
-        {
-            "source": "Tyler Lawson/89296",
-            "target": "Carlsson, Gunnar Erik/14885",
-            "value": 1
-        },
-        {
-            "source": "Irakli Patchkoria/175473",
-            "target": "Stefan Schwede/28549",
-            "value": 1
-        },
-        {
-            "source": "Sanath Devalapurkar/187940",
-            "target": "Michael Hopkins/5672",
-            "value": 1
-        },
-        {
-            "source": "Niko Naumann/83004",
-            "target": "Werner, Annette/28983",
-            "value": 1
-        },
-        {
-            "source": "Bauer, Stefan/25701",
-            "target": "tom Dieck, Tammo/26332",
-            "value": 1
-        },
-        {
-            "source": "Beren Sanders/183907",
-            "target": "Balmer, Paul/44976",
-            "value": 1
-        },
-        {
-            "source": "Ray, Nigel/24511",
-            "target": "Adams, J. Frank (John)/24507",
-            "value": 1
-        },
-        {
-            "source": "Michael Hopkins/5672",
-            "target": "James, Ioan Mackenzie/22474",
-            "value": 1
-        },
-        {
-            "source": "Mingcong Zeng/237608",
-            "target": "Douglas Ravenel/12024",
-            "value": 1
-        },
-        {
-            "source": "Cary Malkiewich/191314",
-            "target": "Ralph Cohen/12025",
-            "value": 1
-        },
-        {
-            "source": "Akhil Mathew/275700",
-            "target": "Lurie, Jacob Alexander/84215",
-            "value": 1
-        },
-        {
-            "source": "Bosch, Siegfried/26327",
-            "target": "Remmert, Reinhold W./7776",
-            "value": 1
-        },
-        {
-            "source": "Thomas Nikolaus/155022",
-            "target": "Schweigert, Christoph/93174",
-            "value": 1
-        },
-        {
-            "source": "Gelbaum, Bernard Russell/8106",
-            "target": "Bochner, Salomon/8038",
-            "value": 1
-        },
-        {
-            "source": "Salch, Andrew/157489",
-            "target": "Douglas Ravenel/12024",
-            "value": 1
-        },
-        {
-            "source": "B\u00f6digheimer, Carl-Friedrich/25707",
-            "target": "Dold, Albrecht/24751",
-            "value": 1
-        },
-        {
-            "source": "Steenrod, Norman Earl/7811",
-            "target": "Lefschetz, Solomon/7461",
-            "value": 1
-        },
-        {
-            "source": "Powell, Geoffrey M. L./23937",
-            "target": "James, Ioan Mackenzie/22474",
-            "value": 1
-        },
-        {
-            "source": "Vladimir Sosnilo/282928",
-            "target": "Bondarko, Mikhail Vladimirovich/191575",
-            "value": 1
-        },
-        {
-            "source": "Maxime Ramzi/324759",
-            "target": "Grodal, Jesper Kragh/47858",
-            "value": 1
-        },
-        {
-            "source": "Paul Goerss/28306",
-            "target": "Peterson, Franklin Paul/8592",
-            "value": 1
-        },
-        {
-            "source": "John Lind/154323",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Gabriel Valenzuela/200606",
-            "target": "Mark Hovey/64874",
-            "value": 1
-        },
-        {
-            "source": "Andrew Blumberg/98808",
-            "target": "Michael Mandell/9372",
-            "value": 1
-        },
-        {
-            "source": "Hood Chatham/268160",
-            "target": "Miller, Haynes Robert/1305",
-            "value": 1
-        },
-        {
-            "source": "Mona Merling/185111",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Ehresmann, Charles/96080",
-            "target": "Lefschetz, Solomon/7461",
-            "value": 1
-        },
-        {
-            "source": "Jean Fasel/90942",
-            "target": "Barge, Jean/90936",
-            "value": 1
-        },
-        {
-            "source": "Bosch, Siegfried/26327",
-            "target": "Grauert, Hans/18360",
-            "value": 1
-        },
-        {
-            "source": "Remmert, Reinhold W./7776",
-            "target": "Behnke, Heinrich Adolph/15253",
-            "value": 1
-        },
-        {
-            "source": "Neumann, Frank/27719",
-            "target": "Smith, Larry (Lawrence)/12023",
-            "value": 1
-        },
-        {
-            "source": "John Rognes/18869",
-            "target": "Carlsson, Gunnar Erik/14885",
-            "value": 1
-        },
-        {
-            "source": "Weber, Heinrich Martin/16915",
-            "target": "Hesse, Otto/46967",
-            "value": 1
-        },
-        {
-            "source": "Brooke Shipley/31089",
-            "target": "Miller, Haynes Robert/1305",
-            "value": 1
-        },
-        {
-            "source": "Hans-Werner Henn/23689",
-            "target": "Puppe, Dieter Siegmund/25316",
-            "value": 1
-        },
-        {
-            "source": "Guchuan Li/253294",
-            "target": "Paul Goerss/28306",
-            "value": 1
-        },
-        {
-            "source": "Morel, Fabien/124095",
-            "target": "Lannes, Jean E./119474",
-            "value": 1
-        },
-        {
-            "source": "Threlfall, William Richard Maximilian Hugo/16589",
-            "target": "H\u00f6lder, Otto Ludwig/18608",
-            "value": 1
-        },
-        {
-            "source": "Anick, David Jay/37061",
-            "target": "Peterson, Franklin Paul/8592",
-            "value": 1
-        },
-        {
-            "source": "Madsen, Ib Henning/6627",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Seifert, Herbert Karl Johannes/15668",
-            "target": "Threlfall, William Richard Maximilian Hugo/16589",
-            "value": 1
-        },
-        {
-            "source": "Lichtenbaum, Stephen/13002",
-            "target": "Tate, Jr., John Torrence/7652",
-            "value": 1
-        },
-        {
-            "source": "Elden Elmanto/240163",
-            "target": "Francis, John Nathan Kirkpatrick/126757",
-            "value": 1
-        },
-        {
-            "source": "Artin, Emil/7690",
-            "target": "H\u00f6lder, Otto Ludwig/18608",
-            "value": 1
-        },
-        {
-            "source": "Achim Krause/236455",
-            "target": "Teichner, Peter/25969",
-            "value": 1
-        },
-        {
-            "source": "Tomer Schlank/182601",
-            "target": "de Shalit, Ehud/50929",
-            "value": 1
-        },
-        {
-            "source": "Benjamin Antieau/151817",
-            "target": "Gillet, Henri Antoine/28526",
-            "value": 1
-        },
-        {
-            "source": "Segal, Graeme Bryce/27142",
-            "target": "Atiyah, Michael Francis/30949",
-            "value": 1
-        },
-        {
-            "source": "Werner, Annette/28983",
-            "target": "Bosch, Siegfried/26327",
-            "value": 1
-        },
-        {
-            "source": "Shachar Carmeli/280655",
-            "target": "Gourevitch, Dmitry/139215",
-            "value": 1
-        },
-        {
-            "source": "Milgram, R. James (Richard)/18610",
-            "target": "Aeppli, Alfred/4638",
-            "value": 1
-        },
-        {
             "source": "J. Greenlees/24521",
             "target": "Adams, J. Frank (John)/24507",
-            "value": 1
-        },
-        {
-            "source": "Steffen Sagave/99322",
-            "target": "Stefan Schwede/28549",
-            "value": 1
-        },
-        {
-            "source": "Schweigert, Christoph/93174",
-            "target": "Fuchs, J\u00fcrgen/90155",
-            "value": 1
-        },
-        {
-            "source": "Ralph Cohen/12025",
-            "target": "Brown, Jr., Edgar Henry/1465",
-            "value": 1
-        },
-        {
-            "source": "Emily Riehl/153426",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Nathaniel Stapleton/157754",
-            "target": "Charles Rezk/37595",
-            "value": 1
-        },
-        {
-            "source": "Zhouli Xu/216251",
-            "target": "Mark Mahowald/7665",
-            "value": 1
-        },
-        {
-            "source": "Westerland, Craig Christopher/22799",
-            "target": "Kriz, Igor/52316",
-            "value": 1
-        },
-        {
-            "source": "Levi, Friedrich Wilhelm Daniel/30179",
-            "target": "Weber, Heinrich Martin/16915",
-            "value": 1
-        },
-        {
-            "source": "Alexander Engel/189937",
-            "target": "Hanke, Bernhard/38502",
-            "value": 1
-        },
-        {
-            "source": "Jos\u251c\u00ae G\u251c\u2502mez/292943",
-            "target": "Kriz, Igor/52316",
-            "value": 1
-        },
-        {
-            "source": "Michael Mandell/9372",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Hana Kong/272159",
-            "target": "Daniel Isaksen/23393",
-            "value": 1
-        },
-        {
-            "source": "Daniel Isaksen/23393",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Jordan Williamson/286222",
-            "target": "J. Greenlees/24521",
-            "value": 1
-        },
-        {
-            "source": "Eckmann, Beno/18355",
-            "target": "Hopf, Heinz/17409",
-            "value": 1
-        },
-        {
-            "source": "Constantin Teleman/63055",
-            "target": "Segal, Graeme Bryce/27142",
-            "value": 1
-        },
-        {
-            "source": "Gaitsgory, Dennis/53163",
-            "target": "Bernstein, Joseph N./18743",
-            "value": 1
-        },
-        {
-            "source": "May, J. (Jon) Peter/6608",
-            "target": "Moore, John Coleman/4350",
-            "value": 1
-        },
-        {
-            "source": "Neil Strickland/75751",
-            "target": "Ray, Nigel/24511",
-            "value": 1
-        },
-        {
-            "source": "Kreck, Matthias/21019",
-            "target": "Hirzebruch, Friedrich/21252",
-            "value": 1
-        },
-        {
-            "source": "Kyle Ormsby/160453",
-            "target": "Kriz, Igor/52316",
             "value": 1
         },
         {
@@ -1743,113 +901,23 @@
             "value": 1
         },
         {
-            "source": "Markus Hausmann/204231",
-            "target": "Stefan Schwede/28549",
+            "source": "Story, William Edward/7451",
+            "target": "Neumann, Carl Gottfried/32858",
             "value": 1
         },
         {
-            "source": "Gabriel Angelini-Knoll/252395",
-            "target": "Salch, Andrew/157489",
+            "source": "Grauert, Hans/18360",
+            "target": "Behnke, Heinrich Adolph/15253",
             "value": 1
         },
         {
-            "source": "John Klein/36793",
-            "target": "Igusa, Kiyoshi/23349",
-            "value": 1
-        },
-        {
-            "source": "Po\u00e9naru, Valentin/98580",
-            "target": "Ehresmann, Charles/96080",
-            "value": 1
-        },
-        {
-            "source": "Bartels, Arthur Clemens/38373",
-            "target": "Teichner, Peter/25969",
-            "value": 1
-        },
-        {
-            "source": "Rinow, Willi Ludwig August/20673",
-            "target": "Hopf, Heinz/17409",
-            "value": 1
-        },
-        {
-            "source": "Niko Naumann/83004",
-            "target": "Deninger, Christopher/23622",
-            "value": 1
-        },
-        {
-            "source": "Jeremy Miller/170229",
-            "target": "Ralph Cohen/12025",
-            "value": 1
-        },
-        {
-            "source": "Dustin Clausen/192146",
-            "target": "Lurie, Jacob Alexander/84215",
-            "value": 1
-        },
-        {
-            "source": "David Barnes/165528",
-            "target": "J. Greenlees/24521",
-            "value": 1
-        },
-        {
-            "source": "Ningchuan Zhang/265934",
-            "target": "Matthew Ando/32954",
-            "value": 1
-        },
-        {
-            "source": "Bondarko, Mikhail Vladimirovich/191575",
-            "target": "Vostokov, Sergei Vladimirovich/16967",
-            "value": 1
-        },
-        {
-            "source": "Hecke, Erich/7379",
-            "target": "Hilbert, David/7298",
-            "value": 1
-        },
-        {
-            "source": "Hsiang, Wu-Chung/8591",
-            "target": "Steenrod, Norman Earl/7811",
-            "value": 1
-        },
-        {
-            "source": "Eva Belmont/235746",
+            "source": "J. Christensen/37032",
             "target": "Miller, Haynes Robert/1305",
             "value": 1
         },
         {
-            "source": "Geoffroy Horel/185361",
-            "target": "Miller, Haynes Robert/1305",
-            "value": 1
-        },
-        {
-            "source": "Anna Bohmann/153289",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Browder, William/8587",
-            "target": "Moore, John Coleman/4350",
-            "value": 1
-        },
-        {
-            "source": "Hirzebruch, Friedrich/21252",
-            "target": "Hopf, Heinz/17409",
-            "value": 1
-        },
-        {
-            "source": "Daniel Kasprowski/253025",
-            "target": "Bartels, Arthur Clemens/38373",
-            "value": 1
-        },
-        {
-            "source": "Jay Shah/266190",
-            "target": "Silvestri, Simone/266191",
-            "value": 1
-        },
-        {
-            "source": "L\u00fcck, Wolfgang/23789",
-            "target": "tom Dieck, Tammo/26332",
+            "source": "Nieveen, Jakob/312258",
+            "target": "van Buchem, Frans Stefanus Petrus/309762",
             "value": 1
         },
         {
@@ -1858,7 +926,162 @@
             "value": 1
         },
         {
-            "source": "Tobias Lenz/279131",
+            "source": "James, Ioan Mackenzie/22474",
+            "target": "Whitehead, John Henry Constantine/1423",
+            "value": 1
+        },
+        {
+            "source": "Lior Yanovski/253040",
+            "target": "Dror Farjoun, Emmanuel/26886",
+            "value": 1
+        },
+        {
+            "source": "Dyer, S. Eldon (Sherman)/311",
+            "target": "Moore, R. L. (Robert Lee)/286",
+            "value": 1
+        },
+        {
+            "source": "Powell, Geoffrey M. L./23937",
+            "target": "James, Ioan Mackenzie/22474",
+            "value": 1
+        },
+        {
+            "source": "Heckman, James Joseph/198375",
+            "target": "Black, Stanley Warren/199311",
+            "value": 1
+        },
+        {
+            "source": "Constantin Teleman/63055",
+            "target": "Bott, Raoul H./7583",
+            "value": 1
+        },
+        {
+            "source": "Gregory Arone/4506",
+            "target": "Goodwillie, Thomas Gehret/11357",
+            "value": 1
+        },
+        {
+            "source": "Allen Yuan/285419",
+            "target": "Lurie, Jacob Alexander/84215",
+            "value": 1
+        },
+        {
+            "source": "Kathryn Hess/36982",
+            "target": "Anick, David Jay/37061",
+            "value": 1
+        },
+        {
+            "source": "Kitchloo, Nitya Ranjan/32972",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Drew Heard/187812",
+            "target": "Westerland, Craig Christopher/22799",
+            "value": 1
+        },
+        {
+            "source": "Tomer Schlank/182601",
+            "target": "de Shalit, Ehud/50929",
+            "value": 1
+        },
+        {
+            "source": "Ulrike Tillmann/39171",
+            "target": "Ralph Cohen/12025",
+            "value": 1
+        },
+        {
+            "source": "Emily Riehl/153426",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Jordan Williamson/286222",
+            "target": "J. Greenlees/24521",
+            "value": 1
+        },
+        {
+            "source": "Markus Szymik/74651",
+            "target": "Bauer, Stefan/25701",
+            "value": 1
+        },
+        {
+            "source": "Jeremy Miller/170229",
+            "target": "Ralph Cohen/12025",
+            "value": 1
+        },
+        {
+            "source": "Zhouli Xu/216251",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Mark Mahowald/7665",
+            "target": "Gelbaum, Bernard Russell/8106",
+            "value": 1
+        },
+        {
+            "source": "Seifert, Herbert Karl Johannes/15668",
+            "target": "Threlfall, William Richard Maximilian Hugo/16589",
+            "value": 1
+        },
+        {
+            "source": "Neumann, Frank/27719",
+            "target": "Smith, Larry (Lawrence)/12023",
+            "value": 1
+        },
+        {
+            "source": "Alexey Ananyevskiy/213603",
+            "target": "Panin, Ivan A./65017",
+            "value": 1
+        },
+        {
+            "source": "Michael Mandell/9372",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Epstein, David Bernard Alper/24419",
+            "target": "Zeeman, E. Christopher (Eric)/24417",
+            "value": 1
+        },
+        {
+            "source": "Inna Zakharevich/200798",
+            "target": "Michael Hopkins/5672",
+            "value": 1
+        },
+        {
+            "source": "Clark Barwick/93010",
+            "target": "Pantev, Tony/23078",
+            "value": 1
+        },
+        {
+            "source": "Douglas Ravenel/12024",
+            "target": "Brown, Jr., Edgar Henry/1465",
+            "value": 1
+        },
+        {
+            "source": "Lars Hesselholt/43964",
+            "target": "Madsen, Ib Henning/6627",
+            "value": 1
+        },
+        {
+            "source": "Justin Noel/137839",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Geoffroy Horel/185361",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Bj\u251c\u0116rn Dundas/77919",
+            "target": "Jahren, Bj\u00f8rn/77917",
+            "value": 1
+        },
+        {
+            "source": "Sil Linskens/322492",
             "target": "Stefan Schwede/28549",
             "value": 1
         },
@@ -1868,173 +1091,8 @@
             "value": 1
         },
         {
-            "source": "Alexey Ananyevskiy/213603",
-            "target": "Panin, Ivan A./65017",
-            "value": 1
-        },
-        {
-            "source": "Gregory Arone/4506",
-            "target": "Goodwillie, Thomas Gehret/11357",
-            "value": 1
-        },
-        {
-            "source": "Alejandro Adem/4348",
-            "target": "Browder, William/8587",
-            "value": 1
-        },
-        {
-            "source": "Michael Hopkins/5672",
-            "target": "Mark Mahowald/7665",
-            "value": 1
-        },
-        {
-            "source": "Constantin Teleman/63055",
-            "target": "Bott, Raoul H./7583",
-            "value": 1
-        },
-        {
-            "source": "MacPherson, Robert Duncan/11546",
-            "target": "Bott, Raoul H./7583",
-            "value": 1
-        },
-        {
-            "source": "Kate Ponto/107676",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "J. Christensen/37032",
-            "target": "Miller, Haynes Robert/1305",
-            "value": 1
-        },
-        {
-            "source": "Paul \u00d8stv\u00e6r/44645",
-            "target": "John Rognes/18869",
-            "value": 1
-        },
-        {
-            "source": "Deninger, Christopher/23622",
-            "target": "Meyer, Curt/21585",
-            "value": 1
-        },
-        {
-            "source": "Hilbert, David/7298",
-            "target": "Weber, Heinrich Martin/16915",
-            "value": 1
-        },
-        {
-            "source": "J. May/321210",
-            "target": "Nieveen, Jakob/312258",
-            "value": 1
-        },
-        {
-            "source": "James, Ioan Mackenzie/22474",
-            "target": "Whitehead, John Henry Constantine/1423",
-            "value": 1
-        },
-        {
-            "source": "Ojanguren, Manuel/18377",
-            "target": "Chandrasekharan, Komaravolu S./79756",
-            "value": 1
-        },
-        {
-            "source": "Samelson, Hans/7787",
-            "target": "Hopf, Heinz/17409",
-            "value": 1
-        },
-        {
-            "source": "Dold, Albrecht/24751",
-            "target": "Seifert, Herbert Karl Johannes/15668",
-            "value": 1
-        },
-        {
-            "source": "Birgit Richter/31566",
-            "target": "B\u00f6digheimer, Carl-Friedrich/25707",
-            "value": 1
-        },
-        {
-            "source": "Marc Hoyois/186423",
-            "target": "Paul Goerss/28306",
-            "value": 1
-        },
-        {
-            "source": "Ojanguren, Manuel/18377",
-            "target": "Eckmann, Beno/18355",
-            "value": 1
-        },
-        {
-            "source": "Ang Li/284632",
-            "target": "Bertrand Guillou/123877",
-            "value": 1
-        },
-        {
-            "source": "Bogdan Gheorghe/236324",
-            "target": "Daniel Isaksen/23393",
-            "value": 1
-        },
-        {
-            "source": "Lars Hesselholt/43964",
-            "target": "Madsen, Ib Henning/6627",
-            "value": 1
-        },
-        {
-            "source": "Agnes Beaudry/174924",
-            "target": "Paul Goerss/28306",
-            "value": 1
-        },
-        {
-            "source": "Grodal, Jesper Kragh/47858",
-            "target": "Miller, Haynes Robert/1305",
-            "value": 1
-        },
-        {
-            "source": "Carlsson, Gunnar Erik/14885",
-            "target": "Milgram, R. James (Richard)/18610",
-            "value": 1
-        },
-        {
-            "source": "Fritsch, F. Rudolf (Fritz)/38501",
-            "target": "Puppe, Dieter Siegmund/25316",
-            "value": 1
-        },
-        {
-            "source": "Harder, G\u00fcnter/21244",
-            "target": "Witt, Ernst/22905",
-            "value": 1
-        },
-        {
-            "source": "McCarthy, Randy/25031",
-            "target": "Loday, Jean-Louis/44614",
-            "value": 1
-        },
-        {
-            "source": "Ben Williams/291348",
-            "target": "Heckman, James Joseph/198375",
-            "value": 1
-        },
-        {
-            "source": "Kathryn Hess/36982",
-            "target": "Anick, David Jay/37061",
-            "value": 1
-        },
-        {
-            "source": "Werner, Annette/28983",
-            "target": "Deninger, Christopher/23622",
-            "value": 1
-        },
-        {
-            "source": "Stolz, Stephan/25968",
-            "target": "Kreck, Matthias/21019",
-            "value": 1
-        },
-        {
-            "source": "Maxime Ramzi/324759",
-            "target": "Land, Markus/204556",
-            "value": 1
-        },
-        {
-            "source": "H\u00f6lder, Otto Ludwig/18608",
-            "target": "Du Bois-Reymond, Paul/18332",
+            "source": "Benjamin Antieau/151817",
+            "target": "Gillet, Henri Antoine/28526",
             "value": 1
         },
         {
@@ -2043,23 +1101,63 @@
             "value": 1
         },
         {
-            "source": "Jay Shah/266190",
-            "target": "Das, Sajal K./69293",
+            "source": "Lennart Meier/166621",
+            "target": "Stefan Schwede/28549",
             "value": 1
         },
         {
-            "source": "Mark Hovey/64874",
-            "target": "Anick, David Jay/37061",
+            "source": "David Mehrle/286637",
+            "target": "Inna Zakharevich/200798",
             "value": 1
         },
         {
-            "source": "Charles Rezk/37595",
-            "target": "Michael Hopkins/5672",
+            "source": "Igusa, Kiyoshi/23349",
+            "target": "Hatcher, Allen Edward/23358",
             "value": 1
         },
         {
-            "source": "Tom Bachmann/211438",
-            "target": "Morel, Fabien/124095",
+            "source": "Friedlander, Eric Mark/13041",
+            "target": "Artin, Michael/22863",
+            "value": 1
+        },
+        {
+            "source": "Jonathan Campbell/181219",
+            "target": "Andrew Blumberg/98808",
+            "value": 1
+        },
+        {
+            "source": "Kate Ponto/107676",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Jean Fasel/90942",
+            "target": "Barge, Jean/90936",
+            "value": 1
+        },
+        {
+            "source": "Beren Sanders/183907",
+            "target": "Balmer, Paul/44976",
+            "value": 1
+        },
+        {
+            "source": "Maxime Ramzi/324759",
+            "target": "Grodal, Jesper Kragh/47858",
+            "value": 1
+        },
+        {
+            "source": "B\u00f6digheimer, Carl-Friedrich/25707",
+            "target": "Dold, Albrecht/24751",
+            "value": 1
+        },
+        {
+            "source": "Denis Nardin/261953",
+            "target": "Clark Barwick/93010",
+            "value": 1
+        },
+        {
+            "source": "Behnke, Heinrich Adolph/15253",
+            "target": "Hecke, Erich/7379",
             "value": 1
         },
         {
@@ -2068,28 +1166,218 @@
             "value": 1
         },
         {
-            "source": "Sil Linskens/322492",
+            "source": "Marc Hoyois/186423",
+            "target": "Paul Goerss/28306",
+            "value": 1
+        },
+        {
+            "source": "J. Quigley/254709",
+            "target": "Mark Behrens/77080",
+            "value": 1
+        },
+        {
+            "source": "Birgit Richter/31566",
+            "target": "B\u00f6digheimer, Carl-Friedrich/25707",
+            "value": 1
+        },
+        {
+            "source": "Hopf, Heinz/17409",
+            "target": "Schmidt, Erhard/7361",
+            "value": 1
+        },
+        {
+            "source": "Panin, Ivan A./65017",
+            "target": "Suslin, Andrei Aleksandrovich/25531",
+            "value": 1
+        },
+        {
+            "source": "May, J. (Jon) Peter/6608",
+            "target": "Moore, John Coleman/4350",
+            "value": 1
+        },
+        {
+            "source": "H\u00f6lder, Otto Ludwig/18608",
+            "target": "Du Bois-Reymond, Paul/18332",
+            "value": 1
+        },
+        {
+            "source": "Moritz Groth/157675",
             "target": "Stefan Schwede/28549",
             "value": 1
         },
         {
-            "source": "Aeppli, Alfred/4638",
-            "target": "Eckmann, Beno/18355",
-            "value": 1
-        },
-        {
-            "source": "tom Dieck, Tammo/26332",
-            "target": "Puppe, Dieter Siegmund/25316",
-            "value": 1
-        },
-        {
-            "source": "David Chan/302893",
-            "target": "Anna Bohmann/153289",
+            "source": "Rinow, Willi Ludwig August/20673",
+            "target": "Hopf, Heinz/17409",
             "value": 1
         },
         {
             "source": "Massey, William Schumacher/8594",
             "target": "Steenrod, Norman Earl/7811",
+            "value": 1
+        },
+        {
+            "source": "Threlfall, William Richard Maximilian Hugo/16589",
+            "target": "Levi, Friedrich Wilhelm Daniel/30179",
+            "value": 1
+        },
+        {
+            "source": "Hecke, Erich/7379",
+            "target": "Hilbert, David/7298",
+            "value": 1
+        },
+        {
+            "source": "Ojanguren, Manuel/18377",
+            "target": "Eckmann, Beno/18355",
+            "value": 1
+        },
+        {
+            "source": "Remmert, Reinhold W./7776",
+            "target": "Behnke, Heinrich Adolph/15253",
+            "value": 1
+        },
+        {
+            "source": "Dominic Culver/223916",
+            "target": "Mark Behrens/77080",
+            "value": 1
+        },
+        {
+            "source": "Ehresmann, Charles/96080",
+            "target": "Lefschetz, Solomon/7461",
+            "value": 1
+        },
+        {
+            "source": "Gillet, Henri Antoine/28526",
+            "target": "Mumford, David Bryant/18755",
+            "value": 1
+        },
+        {
+            "source": "William Balderrama/283716",
+            "target": "Charles Rezk/37595",
+            "value": 1
+        },
+        {
+            "source": "Curtis, Morton L./5144",
+            "target": "Wilder, Raymond Louis/291",
+            "value": 1
+        },
+        {
+            "source": "Nathaniel Stapleton/157754",
+            "target": "Charles Rezk/37595",
+            "value": 1
+        },
+        {
+            "source": "Donald Davis/3144",
+            "target": "Milgram, R. James (Richard)/18610",
+            "value": 1
+        },
+        {
+            "source": "McCarthy, Randy/25031",
+            "target": "Grayson, Daniel Richard/11365",
+            "value": 1
+        },
+        {
+            "source": "Peterson, Franklin Paul/8592",
+            "target": "Steenrod, Norman Earl/7811",
+            "value": 1
+        },
+        {
+            "source": "Du Bois-Reymond, Paul/18332",
+            "target": "Hesse, Otto/46967",
+            "value": 1
+        },
+        {
+            "source": "Puppe, Dieter Siegmund/25316",
+            "target": "Seifert, Herbert Karl Johannes/15668",
+            "value": 1
+        },
+        {
+            "source": "XiaoLin Shi/248553",
+            "target": "Michael Hopkins/5672",
+            "value": 1
+        },
+        {
+            "source": "Atiyah, Michael Francis/30949",
+            "target": "Hodge, William Vallance Douglas/18583",
+            "value": 1
+        },
+        {
+            "source": "Tyler Lawson/89296",
+            "target": "Carlsson, Gunnar Erik/14885",
+            "value": 1
+        },
+        {
+            "source": "Jack Morava/388",
+            "target": "Atiyah, Michael Francis/30949",
+            "value": 1
+        },
+        {
+            "source": "Whitehouse, Sarah Ann/79763",
+            "target": "Robinson, Christopher Alan/24462",
+            "value": 1
+        },
+        {
+            "source": "Teichner, Peter/25969",
+            "target": "Kreck, Matthias/21019",
+            "value": 1
+        },
+        {
+            "source": "Bosch, Siegfried/26327",
+            "target": "Grauert, Hans/18360",
+            "value": 1
+        },
+        {
+            "source": "L\u00fcck, Wolfgang/23789",
+            "target": "tom Dieck, Tammo/26332",
+            "value": 1
+        },
+        {
+            "source": "Maxime Ramzi/324759",
+            "target": "Land, Markus/204556",
+            "value": 1
+        },
+        {
+            "source": "Werner, Annette/28983",
+            "target": "Bosch, Siegfried/26327",
+            "value": 1
+        },
+        {
+            "source": "Adeel Khan/206444",
+            "target": "Levine, Marc Noel/36826",
+            "value": 1
+        },
+        {
+            "source": "Waldhausen, Friedhelm/24057",
+            "target": "Hirzebruch, Friedrich/21252",
+            "value": 1
+        },
+        {
+            "source": "Hood Chatham/268160",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Jeremy Hahn/271570",
+            "target": "Michael Hopkins/5672",
+            "value": 1
+        },
+        {
+            "source": "Sanath Devalapurkar/187940",
+            "target": "Gaitsgory, Dennis/53163",
+            "value": 1
+        },
+        {
+            "source": "Hana Kong/272159",
+            "target": "Daniel Isaksen/23393",
+            "value": 1
+        },
+        {
+            "source": "Fritsch, F. Rudolf (Fritz)/38501",
+            "target": "Puppe, Dieter Siegmund/25316",
+            "value": 1
+        },
+        {
+            "source": "Moerdijk, Ieke/55506",
+            "target": "Troelstra, Anne Sjerp/45627",
             "value": 1
         },
         {
@@ -2103,158 +1391,148 @@
             "value": 1
         },
         {
-            "source": "Lurie, Jacob Alexander/84215",
-            "target": "Michael Hopkins/5672",
+            "source": "David Chan/302893",
+            "target": "Anna Bohmann/153289",
             "value": 1
         },
         {
-            "source": "Drew Heard/187812",
-            "target": "Westerland, Craig Christopher/22799",
-            "value": 1
-        },
-        {
-            "source": "William Balderrama/283716",
-            "target": "Charles Rezk/37595",
-            "value": 1
-        },
-        {
-            "source": "Andrew Senger/273587",
-            "target": "Miller, Haynes Robert/1305",
-            "value": 1
-        },
-        {
-            "source": "Vesna Stojanoska/154973",
-            "target": "Paul Goerss/28306",
-            "value": 1
-        },
-        {
-            "source": "Story, William Edward/7451",
-            "target": "Neumann, Carl Gottfried/32858",
-            "value": 1
-        },
-        {
-            "source": "Kirsten Wickelgren/142205",
-            "target": "Carlsson, Gunnar Erik/14885",
-            "value": 1
-        },
-        {
-            "source": "Clark Barwick/93010",
-            "target": "Pantev, Tony/23078",
-            "value": 1
-        },
-        {
-            "source": "Puppe, Dieter Siegmund/25316",
-            "target": "Seifert, Herbert Karl Johannes/15668",
-            "value": 1
-        },
-        {
-            "source": "Waldhausen, Friedhelm/24057",
-            "target": "Hirzebruch, Friedrich/21252",
-            "value": 1
-        },
-        {
-            "source": "Ayelet Lindenstrauss/27141",
-            "target": "Hsiang, Wu-Chung/8591",
-            "value": 1
-        },
-        {
-            "source": "Stefan Schwede/28549",
-            "target": "Waldhausen, Friedhelm/24057",
+            "source": "Achim Krause/236455",
+            "target": "Teichner, Peter/25969",
             "value": 1
         },
         {
             "source": "McCarthy, Randy/25031",
-            "target": "Grayson, Daniel Richard/11365",
+            "target": "Loday, Jean-Louis/44614",
             "value": 1
         },
         {
-            "source": "Bertrand Guillou/123877",
+            "source": "David Gepner/109720",
+            "target": "Matthew Ando/32954",
+            "value": 1
+        },
+        {
+            "source": "Ray, Nigel/24511",
+            "target": "Adams, J. Frank (John)/24507",
+            "value": 1
+        },
+        {
+            "source": "Joost Nuiten/264168",
+            "target": "Moerdijk, Ieke/55506",
+            "value": 1
+        },
+        {
+            "source": "Irina Bobkova/186426",
+            "target": "Paul Goerss/28306",
+            "value": 1
+        },
+        {
+            "source": "Daniel Isaksen/23393",
             "target": "May, J. (Jon) Peter/6608",
             "value": 1
         },
         {
-            "source": "Barge, Jean/90936",
-            "target": "Po\u00e9naru, Valentin/98580",
+            "source": "Artin, Emil/7690",
+            "target": "H\u00f6lder, Otto Ludwig/18608",
             "value": 1
         },
         {
-            "source": "Birgit Richter/31566",
-            "target": "Pirashvili, Teimuraz/96604",
+            "source": "Maria Yakerson/251494",
+            "target": "Levine, Marc Noel/36826",
             "value": 1
         },
         {
-            "source": "Hanke, Bernhard/38502",
-            "target": "Fritsch, F. Rudolf (Fritz)/38501",
+            "source": "Levi, Friedrich Wilhelm Daniel/30179",
+            "target": "Weber, Heinrich Martin/16915",
             "value": 1
         },
         {
-            "source": "Lior Yanovski/253040",
-            "target": "Dror Farjoun, Emmanuel/26886",
+            "source": "Peter Bonventre/217765",
+            "target": "Michael Hill/109370",
             "value": 1
         },
         {
-            "source": "Adams, J. Frank (John)/24507",
-            "target": "Wylie, Shaun/1406",
+            "source": "Foling Zou/262055",
+            "target": "May, J. (Jon) Peter/6608",
             "value": 1
         },
         {
-            "source": "David Mehrle/286637",
-            "target": "Inna Zakharevich/200798",
+            "source": "Jay Shah/266190",
+            "target": "Das, Sajal K./69293",
             "value": 1
         },
         {
-            "source": "Markus Spitzweck/203653",
-            "target": "Harder, G\u00fcnter/21244",
+            "source": "tom Dieck, Tammo/26332",
+            "target": "Puppe, Dieter Siegmund/25316",
             "value": 1
         },
         {
-            "source": "Lior Yanovski/253040",
-            "target": "Tomer Schlank/182601",
+            "source": "Anna Bohmann/153289",
+            "target": "May, J. (Jon) Peter/6608",
             "value": 1
         },
         {
-            "source": "Cisinski, Denis-Charles/74126",
-            "target": "Maltsiniotis, Georges/64270",
+            "source": "Ojanguren, Manuel/18377",
+            "target": "Chandrasekharan, Komaravolu S./79756",
             "value": 1
         },
         {
-            "source": "Rune Haugseng/182756",
-            "target": "Miller, Haynes Robert/1305",
+            "source": "Steenrod, Norman Earl/7811",
+            "target": "Lefschetz, Solomon/7461",
             "value": 1
         },
         {
-            "source": "Allen Yuan/285419",
-            "target": "Lurie, Jacob Alexander/84215",
+            "source": "Mark Behrens/77080",
+            "target": "May, J. (Jon) Peter/6608",
             "value": 1
         },
         {
-            "source": "Bastiaan Cnossen/303411",
+            "source": "Neil Strickland/75751",
+            "target": "Ray, Nigel/24511",
+            "value": 1
+        },
+        {
+            "source": "John Lind/154323",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Gelbaum, Bernard Russell/8106",
+            "target": "Bochner, Salomon/8038",
+            "value": 1
+        },
+        {
+            "source": "Tate, Jr., John Torrence/7652",
+            "target": "Artin, Emil/7690",
+            "value": 1
+        },
+        {
+            "source": "Hsiang, Wu-Chung/8591",
+            "target": "Steenrod, Norman Earl/7811",
+            "value": 1
+        },
+        {
+            "source": "Markus Hausmann/204231",
             "target": "Stefan Schwede/28549",
             "value": 1
         },
         {
-            "source": "Panin, Ivan A./65017",
-            "target": "Suslin, Andrei Aleksandrovich/25531",
+            "source": "Cary Malkiewich/191314",
+            "target": "Ralph Cohen/12025",
             "value": 1
         },
         {
-            "source": "Jonathan Campbell/181219",
-            "target": "Andrew Blumberg/98808",
+            "source": "Daniel Dugger/37017",
+            "target": "Michael Hopkins/5672",
             "value": 1
         },
         {
-            "source": "Brown, Jr., Edgar Henry/1465",
-            "target": "Whitehead, Jr., George William/6374",
+            "source": "Bogdan Gheorghe/236324",
+            "target": "Daniel Isaksen/23393",
             "value": 1
         },
         {
-            "source": "Maria Basterra/23591",
-            "target": "May, J. (Jon) Peter/6608",
-            "value": 1
-        },
-        {
-            "source": "Guozhen Wang/224367",
-            "target": "Mark Behrens/77080",
+            "source": "Carlsson, Gunnar Erik/14885",
+            "target": "Milgram, R. James (Richard)/18610",
             "value": 1
         },
         {
@@ -2263,23 +1541,128 @@
             "value": 1
         },
         {
+            "source": "Land, Markus/204556",
+            "target": "L\u00fcck, Wolfgang/23789",
+            "value": 1
+        },
+        {
+            "source": "Hirzebruch, Friedrich/21252",
+            "target": "Behnke, Heinrich Adolph/15253",
+            "value": 1
+        },
+        {
+            "source": "Kriz, Igor/52316",
+            "target": "Pultr, Ales/59152",
+            "value": 1
+        },
+        {
+            "source": "Vesna Stojanoska/154973",
+            "target": "Paul Goerss/28306",
+            "value": 1
+        },
+        {
+            "source": "J. May/321210",
+            "target": "Nieveen, Jakob/312258",
+            "value": 1
+        },
+        {
+            "source": "Gourevitch, Dmitry/139215",
+            "target": "Gelbart, Stephen Samuel/8337",
+            "value": 1
+        },
+        {
+            "source": "Alexander Engel/189937",
+            "target": "Hanke, Bernhard/38502",
+            "value": 1
+        },
+        {
+            "source": "Aeppli, Alfred/4638",
+            "target": "Hopf, Heinz/17409",
+            "value": 1
+        },
+        {
+            "source": "Grauert, Hans/18360",
+            "target": "Eckmann, Beno/18355",
+            "value": 1
+        },
+        {
+            "source": "Zeeman, E. Christopher (Eric)/24417",
+            "target": "Wylie, Shaun/1406",
+            "value": 1
+        },
+        {
+            "source": "Prasit Bhattacharya/199115",
+            "target": "Michael Mandell/9372",
+            "value": 1
+        },
+        {
+            "source": "Tobias Lenz/279131",
+            "target": "Stefan Schwede/28549",
+            "value": 1
+        },
+        {
+            "source": "Cisinski, Denis-Charles/74126",
+            "target": "Maltsiniotis, Georges/64270",
+            "value": 1
+        },
+        {
+            "source": "Niko Naumann/83004",
+            "target": "Deninger, Christopher/23622",
+            "value": 1
+        },
+        {
+            "source": "David Barnes/165528",
+            "target": "J. Greenlees/24521",
+            "value": 1
+        },
+        {
+            "source": "Kreck, Matthias/21019",
+            "target": "Hirzebruch, Friedrich/21252",
+            "value": 1
+        },
+        {
+            "source": "Kyle Ormsby/160453",
+            "target": "Kriz, Igor/52316",
+            "value": 1
+        },
+        {
+            "source": "Jack Morava/388",
+            "target": "Dyer, S. Eldon (Sherman)/311",
+            "value": 1
+        },
+        {
+            "source": "Hirzebruch, Friedrich/21252",
+            "target": "Hopf, Heinz/17409",
+            "value": 1
+        },
+        {
+            "source": "Moore, John Coleman/4350",
+            "target": "Whitehead, Jr., George William/6374",
+            "value": 1
+        },
+        {
+            "source": "Bartels, Arthur Clemens/38373",
+            "target": "Teichner, Peter/25969",
+            "value": 1
+        },
+        {
+            "source": "Eva Belmont/235746",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Joachim, Michael/14838",
+            "target": "Stolz, Stephan/25968",
+            "value": 1
+        },
+        {
             "source": "Lannes, Jean E./119474",
             "target": "Po\u00e9naru, Valentin/98580",
             "value": 1
         },
         {
-            "source": "Epstein, David Bernard Alper/24419",
-            "target": "Zeeman, E. Christopher (Eric)/24417",
-            "value": 1
-        },
-        {
-            "source": "Lennart Meier/166621",
-            "target": "Stefan Schwede/28549",
-            "value": 1
-        },
-        {
-            "source": "Vigleik Angeltveit/99822",
-            "target": "Miller, Haynes Robert/1305",
+            "source": "Charles Rezk/37595",
+            "target": "Michael Hopkins/5672",
             "value": 1
         },
         {
@@ -2288,23 +1671,388 @@
             "value": 1
         },
         {
+            "source": "Jos\u251c\u00ae G\u251c\u2502mez/292943",
+            "target": "Kriz, Igor/52316",
+            "value": 1
+        },
+        {
+            "source": "Bochner, Salomon/8038",
+            "target": "Schmidt, Erhard/7361",
+            "value": 1
+        },
+        {
+            "source": "John Klein/36793",
+            "target": "Igusa, Kiyoshi/23349",
+            "value": 1
+        },
+        {
+            "source": "Nicolas Ricka/201736",
+            "target": "Powell, Geoffrey M. L./23937",
+            "value": 1
+        },
+        {
+            "source": "Christian Schlichtkrull/43826",
+            "target": "Madsen, Ib Henning/6627",
+            "value": 1
+        },
+        {
+            "source": "Gourevitch, Dmitry/139215",
+            "target": "Bernstein, Joseph N./18743",
+            "value": 1
+        },
+        {
+            "source": "Grodal, Jesper Kragh/47858",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Levine, Marc Noel/36826",
+            "target": "Matsusaka, Teruhisa/6476",
+            "value": 1
+        },
+        {
+            "source": "Mark Hovey/64874",
+            "target": "Anick, David Jay/37061",
+            "value": 1
+        },
+        {
+            "source": "Stolz, Stephan/25968",
+            "target": "Kreck, Matthias/21019",
+            "value": 1
+        },
+        {
+            "source": "Ralph Cohen/12025",
+            "target": "Brown, Jr., Edgar Henry/1465",
+            "value": 1
+        },
+        {
+            "source": "Lior Yanovski/253040",
+            "target": "Tomer Schlank/182601",
+            "value": 1
+        },
+        {
+            "source": "Markus Szymik/74651",
+            "target": "J. Greenlees/24521",
+            "value": 1
+        },
+        {
+            "source": "Hans-Werner Henn/23689",
+            "target": "Puppe, Dieter Siegmund/25316",
+            "value": 1
+        },
+        {
+            "source": "Daniel Kasprowski/253025",
+            "target": "Bartels, Arthur Clemens/38373",
+            "value": 1
+        },
+        {
+            "source": "Whitehead, Jr., George William/6374",
+            "target": "Steenrod, Norman Earl/7811",
+            "value": 1
+        },
+        {
+            "source": "Bertrand Guillou/123877",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Suslin, Andrei Aleksandrovich/25531",
+            "target": "Bashmakov, Mark/87995",
+            "value": 1
+        },
+        {
+            "source": "Jay Shah/266190",
+            "target": "Silvestri, Simone/266191",
+            "value": 1
+        },
+        {
+            "source": "Elden Elmanto/240163",
+            "target": "Francis, John Nathan Kirkpatrick/126757",
+            "value": 1
+        },
+        {
+            "source": "Constanze Roitzheim/104362",
+            "target": "Stefan Schwede/28549",
+            "value": 1
+        },
+        {
+            "source": "Ang Li/284632",
+            "target": "Bertrand Guillou/123877",
+            "value": 1
+        },
+        {
+            "source": "Pantev, Tony/23078",
+            "target": "Donagi, Ron Yehuda/23198",
+            "value": 1
+        },
+        {
+            "source": "Guchuan Li/253294",
+            "target": "Paul Goerss/28306",
+            "value": 1
+        },
+        {
+            "source": "Ulrich Bunke/22066",
+            "target": "Eichhorn, J\u00fcrgen/22012",
+            "value": 1
+        },
+        {
+            "source": "Kriz, Igor/52316",
+            "target": "Ne\u0161et\u0159il, Jaroslav/80983",
+            "value": 1
+        },
+        {
+            "source": "Constantin Teleman/63055",
+            "target": "Segal, Graeme Bryce/27142",
+            "value": 1
+        },
+        {
+            "source": "Alejandro Adem/4348",
+            "target": "Browder, William/8587",
+            "value": 1
+        },
+        {
+            "source": "Anick, David Jay/37061",
+            "target": "Peterson, Franklin Paul/8592",
+            "value": 1
+        },
+        {
+            "source": "Harder, G\u00fcnter/21244",
+            "target": "Witt, Ernst/22905",
+            "value": 1
+        },
+        {
+            "source": "Francis, John Nathan Kirkpatrick/126757",
+            "target": "Michael Hopkins/5672",
+            "value": 1
+        },
+        {
+            "source": "Thomas Nikolaus/155022",
+            "target": "Schweigert, Christoph/93174",
+            "value": 1
+        },
+        {
+            "source": "Viet-Cuong Pham/259080",
+            "target": "Hans-Werner Henn/23689",
+            "value": 1
+        },
+        {
+            "source": "Milgram, R. James (Richard)/18610",
+            "target": "Aeppli, Alfred/4638",
+            "value": 1
+        },
+        {
+            "source": "Segal, Graeme Bryce/27142",
+            "target": "Atiyah, Michael Francis/30949",
+            "value": 1
+        },
+        {
+            "source": "Zhouli Xu/216251",
+            "target": "Mark Mahowald/7665",
+            "value": 1
+        },
+        {
+            "source": "Smith, Larry (Lawrence)/12023",
+            "target": "Massey, William Schumacher/8594",
+            "value": 1
+        },
+        {
+            "source": "John Rognes/18869",
+            "target": "Carlsson, Gunnar Erik/14885",
+            "value": 1
+        },
+        {
+            "source": "Michael Hopkins/5672",
+            "target": "James, Ioan Mackenzie/22474",
+            "value": 1
+        },
+        {
+            "source": "Guozhen Wang/224367",
+            "target": "Mark Behrens/77080",
+            "value": 1
+        },
+        {
+            "source": "Ningchuan Zhang/265934",
+            "target": "Matthew Ando/32954",
+            "value": 1
+        },
+        {
+            "source": "McCarthy, Randy/25031",
+            "target": "Lichtenbaum, Stephen/13002",
+            "value": 1
+        },
+        {
+            "source": "Mingcong Zeng/237608",
+            "target": "Douglas Ravenel/12024",
+            "value": 1
+        },
+        {
+            "source": "Weber, Heinrich Martin/16915",
+            "target": "Hesse, Otto/46967",
+            "value": 1
+        },
+        {
+            "source": "Samelson, Hans/7787",
+            "target": "Hopf, Heinz/17409",
+            "value": 1
+        },
+        {
+            "source": "Aravind Asok/87094",
+            "target": "MacPherson, Robert Duncan/11546",
+            "value": 1
+        },
+        {
+            "source": "Jahren, Bj\u00f8rn/77917",
+            "target": "Hsiang, Wu-Chung/8591",
+            "value": 1
+        },
+        {
+            "source": "Bastiaan Cnossen/303411",
+            "target": "Stefan Schwede/28549",
+            "value": 1
+        },
+        {
+            "source": "Jean Fasel/90942",
+            "target": "Ojanguren, Manuel/18377",
+            "value": 1
+        },
+        {
+            "source": "Das, Sajal K./69293",
+            "target": "Deo, Narsingh/40741",
+            "value": 1
+        },
+        {
+            "source": "Zhouli Xu/216251",
+            "target": "Daniel Isaksen/23393",
+            "value": 1
+        },
+        {
+            "source": "Scott Balchin/224143",
+            "target": "Neumann, Frank/27719",
+            "value": 1
+        },
+        {
+            "source": "Andrew Blumberg/98808",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Paul \u00d8stv\u00e6r/44645",
+            "target": "John Rognes/18869",
+            "value": 1
+        },
+        {
+            "source": "Goodwillie, Thomas Gehret/11357",
+            "target": "Hsiang, Wu-Chung/8591",
+            "value": 1
+        },
+        {
+            "source": "Bauer, Stefan/25701",
+            "target": "tom Dieck, Tammo/26332",
+            "value": 1
+        },
+        {
+            "source": "W. Wilson/20544",
+            "target": "Peterson, Franklin Paul/8592",
+            "value": 1
+        },
+        {
+            "source": "Deninger, Christopher/23622",
+            "target": "Meyer, Curt/21585",
+            "value": 1
+        },
+        {
+            "source": "Marc Hoyois/186423",
+            "target": "Suslin, Andrei Aleksandrovich/25531",
+            "value": 1
+        },
+        {
+            "source": "Akhil Mathew/275700",
+            "target": "Lurie, Jacob Alexander/84215",
+            "value": 1
+        },
+        {
+            "source": "Teena Gerhardt/110551",
+            "target": "Lars Hesselholt/43964",
+            "value": 1
+        },
+        {
+            "source": "Westerland, Craig Christopher/22799",
+            "target": "Kriz, Igor/52316",
+            "value": 1
+        },
+        {
+            "source": "Barge, Jean/90936",
+            "target": "Po\u00e9naru, Valentin/98580",
+            "value": 1
+        },
+        {
             "source": "Hatcher, Allen Edward/23358",
             "target": "Samelson, Hans/7787",
             "value": 1
         },
         {
-            "source": "Bj\u251c\u0116rn Dundas/77919",
-            "target": "Jahren, Bj\u00f8rn/77917",
+            "source": "Ayelet Lindenstrauss/27141",
+            "target": "Hsiang, Wu-Chung/8591",
             "value": 1
         },
         {
-            "source": "Land, Markus/204556",
-            "target": "L\u00fcck, Wolfgang/23789",
+            "source": "Matthew Ando/32954",
+            "target": "Miller, Haynes Robert/1305",
             "value": 1
         },
         {
-            "source": "Moerdijk, Ieke/55506",
-            "target": "Troelstra, Anne Sjerp/45627",
+            "source": "Robinson, Christopher Alan/24462",
+            "target": "Epstein, David Bernard Alper/24419",
+            "value": 1
+        },
+        {
+            "source": "Andrew Blumberg/98808",
+            "target": "Michael Mandell/9372",
+            "value": 1
+        },
+        {
+            "source": "Pirashvili, Teimuraz/96604",
+            "target": "Inassaridze, Hvedri/80826",
+            "value": 1
+        },
+        {
+            "source": "Tom Bachmann/211438",
+            "target": "Morel, Fabien/124095",
+            "value": 1
+        },
+        {
+            "source": "Sarah Yeakel/219752",
+            "target": "McCarthy, Randy/25031",
+            "value": 1
+        },
+        {
+            "source": "Eichhorn, J\u00fcrgen/22012",
+            "target": "Rinow, Willi Ludwig August/20673",
+            "value": 1
+        },
+        {
+            "source": "Markus Spitzweck/203653",
+            "target": "Harder, G\u00fcnter/21244",
+            "value": 1
+        },
+        {
+            "source": "Lefschetz, Solomon/7461",
+            "target": "Story, William Edward/7451",
+            "value": 1
+        },
+        {
+            "source": "Schweigert, Christoph/93174",
+            "target": "Dijkgraaf, Robbert/88620",
+            "value": 1
+        },
+        {
+            "source": "Martin Frankland/148101",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Adeel Khan/206444",
+            "target": "Cisinski, Denis-Charles/74126",
             "value": 1
         },
         {
@@ -2313,13 +2061,313 @@
             "value": 1
         },
         {
-            "source": "Igusa, Kiyoshi/23349",
-            "target": "Hatcher, Allen Edward/23358",
+            "source": "Neumann, Carl Gottfried/32858",
+            "target": "Hesse, Otto/46967",
             "value": 1
         },
         {
-            "source": "Markus Szymik/74651",
-            "target": "J. Greenlees/24521",
+            "source": "Wolfgang Steimle/145520",
+            "target": "L\u00fcck, Wolfgang/23789",
+            "value": 1
+        },
+        {
+            "source": "Hanke, Bernhard/38502",
+            "target": "Fritsch, F. Rudolf (Fritz)/38501",
+            "value": 1
+        },
+        {
+            "source": "Jack Morava/388",
+            "target": "Curtis, Morton L./5144",
+            "value": 1
+        },
+        {
+            "source": "Steffen Sagave/99322",
+            "target": "Stefan Schwede/28549",
+            "value": 1
+        },
+        {
+            "source": "Fabian Hebestreit/185878",
+            "target": "Joachim, Michael/14838",
+            "value": 1
+        },
+        {
+            "source": "Vladimir Sosnilo/282928",
+            "target": "Bondarko, Mikhail Vladimirovich/191575",
+            "value": 1
+        },
+        {
+            "source": "Agnes Beaudry/174924",
+            "target": "Paul Goerss/28306",
+            "value": 1
+        },
+        {
+            "source": "Salch, Andrew/157489",
+            "target": "Douglas Ravenel/12024",
+            "value": 1
+        },
+        {
+            "source": "Stefan Schwede/28549",
+            "target": "Waldhausen, Friedhelm/24057",
+            "value": 1
+        },
+        {
+            "source": "Aeppli, Alfred/4638",
+            "target": "Eckmann, Beno/18355",
+            "value": 1
+        },
+        {
+            "source": "Vigleik Angeltveit/99822",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Irakli Patchkoria/175473",
+            "target": "Stefan Schwede/28549",
+            "value": 1
+        },
+        {
+            "source": "Alexander Kupers/203715",
+            "target": "Soren Galatius/117706",
+            "value": 1
+        },
+        {
+            "source": "Threlfall, William Richard Maximilian Hugo/16589",
+            "target": "H\u00f6lder, Otto Ludwig/18608",
+            "value": 1
+        },
+        {
+            "source": "Schweigert, Christoph/93174",
+            "target": "Fuchs, J\u00fcrgen/90155",
+            "value": 1
+        },
+        {
+            "source": "de Shalit, Ehud/50929",
+            "target": "Wiles, Andrew John/9696",
+            "value": 1
+        },
+        {
+            "source": "Wylie, Shaun/1406",
+            "target": "Lefschetz, Solomon/7461",
+            "value": 1
+        },
+        {
+            "source": "Andrew Senger/273587",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Bondarko, Mikhail Vladimirovich/191575",
+            "target": "Vostokov, Sergei Vladimirovich/16967",
+            "value": 1
+        },
+        {
+            "source": "Browder, William/8587",
+            "target": "Moore, John Coleman/4350",
+            "value": 1
+        },
+        {
+            "source": "Gaitsgory, Dennis/53163",
+            "target": "Bernstein, Joseph N./18743",
+            "value": 1
+        },
+        {
+            "source": "Jonathan Campbell/181219",
+            "target": "Ralph Cohen/12025",
+            "value": 1
+        },
+        {
+            "source": "Po\u00e9naru, Valentin/98580",
+            "target": "Ehresmann, Charles/96080",
+            "value": 1
+        },
+        {
+            "source": "Rune Haugseng/182756",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Michael Hill/109370",
+            "target": "Michael Hopkins/5672",
+            "value": 1
+        },
+        {
+            "source": "Gabriel Valenzuela/200606",
+            "target": "Mark Hovey/64874",
+            "value": 1
+        },
+        {
+            "source": "Vitaly Lorman/202950",
+            "target": "Kitchloo, Nitya Ranjan/32972",
+            "value": 1
+        },
+        {
+            "source": "Morel, Fabien/124095",
+            "target": "Lannes, Jean E./119474",
+            "value": 1
+        },
+        {
+            "source": "Gabriel Angelini-Knoll/252395",
+            "target": "Salch, Andrew/157489",
+            "value": 1
+        },
+        {
+            "source": "Lurie, Jacob Alexander/84215",
+            "target": "Michael Hopkins/5672",
+            "value": 1
+        },
+        {
+            "source": "Christoph Winges/253024",
+            "target": "Bartels, Arthur Clemens/38373",
+            "value": 1
+        },
+        {
+            "source": "Eckmann, Beno/18355",
+            "target": "Hopf, Heinz/17409",
+            "value": 1
+        },
+        {
+            "source": "Inbar Klang/248860",
+            "target": "Ralph Cohen/12025",
+            "value": 1
+        },
+        {
+            "source": "Michael Hopkins/5672",
+            "target": "Mark Mahowald/7665",
+            "value": 1
+        },
+        {
+            "source": "Jeremiah Heller/109193",
+            "target": "Friedlander, Eric Mark/13041",
+            "value": 1
+        },
+        {
+            "source": "Bosch, Siegfried/26327",
+            "target": "Remmert, Reinhold W./7776",
+            "value": 1
+        },
+        {
+            "source": "Brown, Jr., Edgar Henry/1465",
+            "target": "Whitehead, Jr., George William/6374",
+            "value": 1
+        },
+        {
+            "source": "Hilbert, David/7298",
+            "target": "Weber, Heinrich Martin/16915",
+            "value": 1
+        },
+        {
+            "source": "Sanath Devalapurkar/187940",
+            "target": "Michael Hopkins/5672",
+            "value": 1
+        },
+        {
+            "source": "Paul Goerss/28306",
+            "target": "Peterson, Franklin Paul/8592",
+            "value": 1
+        },
+        {
+            "source": "Hanke, Bernhard/38502",
+            "target": "Puppe, Volker/36117",
+            "value": 1
+        },
+        {
+            "source": "Birgit Richter/31566",
+            "target": "Pirashvili, Teimuraz/96604",
+            "value": 1
+        },
+        {
+            "source": "MacPherson, Robert Duncan/11546",
+            "target": "Bott, Raoul H./7583",
+            "value": 1
+        },
+        {
+            "source": "Ben Williams/291348",
+            "target": "Heckman, James Joseph/198375",
+            "value": 1
+        },
+        {
+            "source": "Werner, Annette/28983",
+            "target": "Deninger, Christopher/23622",
+            "value": 1
+        },
+        {
+            "source": "Puppe, Volker/36117",
+            "target": "Dold, Albrecht/24751",
+            "value": 1
+        },
+        {
+            "source": "Madsen, Ib Henning/6627",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Dylan Wilson/220085",
+            "target": "Paul Goerss/28306",
+            "value": 1
+        },
+        {
+            "source": "Brooke Shipley/31089",
+            "target": "Miller, Haynes Robert/1305",
+            "value": 1
+        },
+        {
+            "source": "Emanuele Dotto/173831",
+            "target": "Madsen, Ib Henning/6627",
+            "value": 1
+        },
+        {
+            "source": "Kirsten Wickelgren/142205",
+            "target": "Carlsson, Gunnar Erik/14885",
+            "value": 1
+        },
+        {
+            "source": "Niko Naumann/83004",
+            "target": "Werner, Annette/28983",
+            "value": 1
+        },
+        {
+            "source": "Maria Basterra/23591",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Lichtenbaum, Stephen/13002",
+            "target": "Tate, Jr., John Torrence/7652",
+            "value": 1
+        },
+        {
+            "source": "Mona Merling/185111",
+            "target": "May, J. (Jon) Peter/6608",
+            "value": 1
+        },
+        {
+            "source": "Jordan Williamson/286222",
+            "target": "Whitehouse, Sarah Ann/79763",
+            "value": 1
+        },
+        {
+            "source": "Adams, J. Frank (John)/24507",
+            "target": "Wylie, Shaun/1406",
+            "value": 1
+        },
+        {
+            "source": "Saul Glasman/191840",
+            "target": "Clark Barwick/93010",
+            "value": 1
+        },
+        {
+            "source": "Dold, Albrecht/24751",
+            "target": "Seifert, Herbert Karl Johannes/15668",
+            "value": 1
+        },
+        {
+            "source": "Dustin Clausen/192146",
+            "target": "Lurie, Jacob Alexander/84215",
+            "value": 1
+        },
+        {
+            "source": "Shachar Carmeli/280655",
+            "target": "Gourevitch, Dmitry/139215",
             "value": 1
         }
     ]
