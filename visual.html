@@ -28,7 +28,7 @@
         .nodeLabel(node => `${node.id}`)
         .linkColor(() => 'rgba(255,255,255,0.2)')
         .linkDirectionalParticles(1)
-        .onNodeClick(node => window.open(`https://bl.ocks.org/${node.user}/${node.id}`, '_blank'))
+        .onNodeClick(node => window.open("https://www.genealogy.math.ndsu.nodak.edu/id.php?id=" + node.id.split("/").pop()))
         .graphData(data);
       });
   </script>
