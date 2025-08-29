@@ -6,6 +6,8 @@ $ = (x, func) => {
     }
 }
 
+SITE = "https://howard-beck.github.io"
+
 is_home = false
 
 document.addEventListener("DOMContentLoaded", function () {

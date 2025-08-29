@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title id="title">finding file...</title>
+
+        <link id="latex-style" rel="stylesheet" href="https://latex.vercel.app/style.css">
+        <link rel="stylesheet" href="../webutil/style.css">
+
+        <script type="text/javascript" src="../webutil/template.js"></script>
+    </head>
+    <body>
+        <h1 id="js-warning">Please enable JavaScript to access files on this website</h1>
+        <div id="content" style="display: none">
+            <h3>Human test:</h3>
+            <img src="./human_test.png" />
+            <p>
+                <b>Please type this in LaTeX as simply as you can:</b>
+                <input id="pw"></input>
+                <button onclick="submit()">Submit!</button>
+            </p>
+        </div>
+        <script>
+            $("#content").style.display = "block"
+            
+
+            var url = window.location.href
+            var query = url.split("?")[1]
+
+            query_file = NaN
+
+            if (query.indexOf("file=") == 0) {
+                query_file = query.substring(5)
+
+                $("#title").innerHTML = query_file
+
+                // https://stackoverflow.com/questions/59215172/read-image-from-an-url-as-binary-string
+                var xhttp = new XMLHttpRequest();
+                xhttp.open('GET', SITE + "/files/ciphertext/" + query_file, true);
+                xhttp.responseType = 'blob';
+                xhttp.send();
+                xhttp.addEventListener('readystatechange', () => {
+                    if (xhttp.readyState == 4 && xhttp.status == 200) {
+                        let reader = new FileReader();
+                        reader.readAsDataURL(xhttp.response);
+                        reader.onload = () => {
+                            console.log(event.target.result)
+                        }
+                    } else {
+                        $("#content").innerHTML = "Could not find <b>" + query_file + "</b>, please make sure this is the correct file or try again later. Status: " + xhttp.status
+                    }
+                });
+            }
+
+            function submit() {
+
+            }
+        </script>
+    </body>
+</html>
