@@ -27,7 +27,11 @@
             var url = window.location.href
             var query = url.split("?")[1]
 
-            query_file = NaN
+            query_file = null
+
+            IV = null
+            ciphertext = null
+            padding = null
 
             if (query.indexOf("file=") == 0) {
                 query_file = query.substring(5)
@@ -37,23 +41,94 @@
                 // https://stackoverflow.com/questions/59215172/read-image-from-an-url-as-binary-string
                 var xhttp = new XMLHttpRequest();
                 xhttp.open('GET', SITE + "/files/ciphertext/" + query_file, true);
-                xhttp.responseType = 'blob';
+                xhttp.responseType = 'arraybuffer';
+                xhttp.onload = (event) => {
+                    console.log(event)
+                    
+                    var byteArray = new Uint8Array(event.target.response);
+
+                    IV = byteArray.slice(0, 16)
+                    padding = byteArray[16]
+                    ciphertext = byteArray.slice(17).buffer
+                }
+                xhttp.send()
+                /*
                 xhttp.send();
                 xhttp.addEventListener('readystatechange', () => {
-                    if (xhttp.readyState == 4 && xhttp.status == 200) {
-                        let reader = new FileReader();
-                        reader.readAsDataURL(xhttp.response);
-                        reader.onload = () => {
-                            console.log(event.target.result)
+                    console.log(xhttp)
+                    if (xhttp.readyState == 4) {
+                        if (xhttp.status == 200) {
+                            let reader = new FileReader();
+                            //reader.readAsDataURL(xhttp.response);
+                            reader.onload = (event) => {
+                                
+                                ret = event.target.result
+                                idx = ret.indexOf(",")
+
+                                ct = ret.substring(idx + 1)
+                                console.log(ct)
+
+                                // https://stackoverflow.com/questions/21797299/how-can-i-convert-a-base64-string-to-arraybuffer
+                                var uintArray = Base64Binary.decode(ct);  
+                                var byteArray = Base64Binary.decodeArrayBuffer(ct); 
+
+                                console.log(byteArray)
+                            }
+                        } else {
+                            $("#content").innerHTML = "Could not find <b>" + query_file + "</b>, please make sure this is the correct file or try again later. Status: " + xhttp.status + ", ready state: " + xhttp.readyState
                         }
-                    } else {
-                        $("#content").innerHTML = "Could not find <b>" + query_file + "</b>, please make sure this is the correct file or try again later. Status: " + xhttp.status
                     }
                 });
+                */
+            }
+
+            // https://stackoverflow.com/questions/6965107/converting-between-strings-and-arraybuffers
+            function str2ab(str) {
+                var buf = new ArrayBuffer(str.length*2); // 2 bytes for each char
+                var bufView = new Uint16Array(buf);
+                for (var i=0, strLen=str.length; i<strLen; i++) {
+                    bufView[i] = str.charCodeAt(i);
+                }
+                return buf;
             }
 
             function submit() {
+                key = $("#pw").value.replaceAll(" ", "")
+                var encoder = new TextEncoder();
+                // https://www.haikel-fazzani.eu.org/snippet/string-uint8array-conversion
+                var uint8Array = encoder.encode(key);
+                console.log(uint8Array)
 
+                var ptenc = encoder.encode("teehee");
+
+                console.log(ciphertext)
+
+                window.crypto.subtle.importKey(
+                    "raw",
+                    uint8Array,
+                    "AES-CBC",
+                    false,
+                    ["decrypt", "encrypt"]
+                ).then(key_import => {
+                    console.log(key_import)
+                    inn = window.crypto.subtle.encrypt(
+                        {name: "AES-CBC", iv: IV},
+                        key_import,
+                        ptenc
+                    ).then(ct => {
+                        console.log(ct)
+                        console.log(ciphertext)
+                        console.log(IV)
+
+                        out = window.crypto.subtle.decrypt(
+                            {
+                                name: "AES-CBC", iv: IV
+                            },
+                            key_import,
+                            ciphertext
+                        ).then(pt => {console.log(pt)})
+                    })
+                })
             }
         </script>
     </body>
