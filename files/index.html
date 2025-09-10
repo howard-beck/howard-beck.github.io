@@ -40,16 +40,17 @@
 
                 // https://stackoverflow.com/questions/59215172/read-image-from-an-url-as-binary-string
                 var xhttp = new XMLHttpRequest();
-                xhttp.open('GET', SITE + "/files/ciphertext/" + query_file, true);
+                xhttp.open('GET', SITE + "/CV/" + query_file, true);
                 xhttp.responseType = 'arraybuffer';
                 xhttp.onload = (event) => {
                     console.log(event)
                     
                     var byteArray = new Uint8Array(event.target.response);
 
-                    IV = byteArray.slice(0, 16)
-                    padding = byteArray[16]
-                    ciphertext = byteArray.slice(17).buffer
+                    //IV = byteArray.slice(0, 16)
+                    //padding = byteArray[16]
+                    //ciphertext = byteArray.slice(17).buffer
+                    ciphertext = byteArray.buffer
                 }
                 xhttp.send()
                 /*
@@ -110,24 +111,43 @@
                     false,
                     ["decrypt", "encrypt"]
                 ).then(key_import => {
-                    console.log(key_import)
-                    inn = window.crypto.subtle.encrypt(
-                        {name: "AES-CBC", iv: IV},
-                        key_import,
-                        ptenc
-                    ).then(ct => {
-                        console.log(ct)
-                        console.log(ciphertext)
-                        console.log(IV)
+                    var xhttp = new XMLHttpRequest();
+                    xhttp.open('GET', SITE + "/files/encrypted/" + query_file, true);
+                    xhttp.responseType = 'arraybuffer';
+                    xhttp.onload = (event) => {
+                        console.log(event)
+                        
+                        var byteArray = new Uint8Array(event.target.response);
 
-                        out = window.crypto.subtle.decrypt(
-                            {
-                                name: "AES-CBC", iv: IV
-                            },
+                        IV = byteArray.slice(0, 16)
+
+                        inn = window.crypto.subtle.encrypt(
+                            {name: "AES-CBC", iv: IV},
                             key_import,
                             ciphertext
-                        ).then(pt => {console.log(pt)})
-                    })
+                        ).then(ct => {
+                            console.log(ct)
+                            console.log(ciphertext)
+                            console.log(IV)
+
+                            const utf8Decoder = new TextDecoder()
+                            console.log(utf8Decoder.decode(ct)) // Obst;Person;
+
+                            /*
+                            out = window.crypto.subtle.decrypt(
+                                {
+                                    name: "AES-CBC", iv: IV
+                                },
+                                key_import,
+                                ciphertext
+                            ).then(pt => {console.log(pt)})
+                            */
+                        })
+                    }
+                    xhttp.send()
+
+                    console.log(key_import)
+                    
                 })
             }
         </script>
